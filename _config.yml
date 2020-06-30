@@ -1,15 +1,15 @@
 
 # Setup
-title:               thumbsup
+title:               TuyDuyenHoi
 email:
 tagline:             Static gallery generator
-url:                 "https://thumbsup.github.io"
+url:                 "https://tuyduyenhoi.github.io"
 baseurl:             "/"
 
 # About/contact
 author: # you can edit these to be your personal details
-  name:              thumbsup
-  url:               https://github.com/thumbsup
+  name:              tuyduyenhoi
+  url:               https://github.com/tuyduyenhoi
   email:
 
 # Google services
@@ -22,7 +22,7 @@ google_tag_manager:
 bing_verification:
 
 # Social
-github_username: thumbsup
+github_username: tuyduyenhoi
 twitter_username:
 instagram_username:
 facebook:
@@ -32,7 +32,7 @@ dribbble_username:
 # Custom vars
 version:             1.0.1
 github:
-  repo:              https://github.com/thumbsup
+  repo:              https://github.com/tuyduyenhoi
 
 # Gems - Dependencies for this theme
 gems:
