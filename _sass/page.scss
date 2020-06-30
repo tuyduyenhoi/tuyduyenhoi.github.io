@@ -1,0 +1,49 @@
+
+.page {
+  min-height: 40em;
+  padding: 2em;
+}
+
+.page h3:first-child {
+  margin-top: 0;
+}
+
+.page h2 {
+  margin-bottom: 1em;
+  margin-top: 0;
+}
+
+.page h3 {
+  background: #17baef;
+  color: #fff;
+  font-size: 1.3em;
+  margin-bottom: 1em;
+  margin-top: 2em;
+  padding: 0.5em 1em;
+}
+
+.page h4 {
+  color: #555;
+  margin-top: 2em;
+}
+
+table {
+  max-width: 40em;
+  margin: 1em 0;
+}
+
+.page .theme-gallery {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.page .theme-gallery .item {
+  padding: 1em;
+  max-width: 350px;
+}
+
+.page .theme-gallery img {
+  border: 2px solid #fff;
+  box-shadow: -1px 1px 8px 1px rgba(0, 0, 0, 0.3);
+  width: 100%;
+}
