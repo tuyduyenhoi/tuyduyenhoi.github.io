@@ -3,7 +3,7 @@ layout: post
 title:  "Những ngôi làng trong rừng già - Aur, làng của thần rừng"
 date:   2020-07-03
 excerpt: "THÀNH CÔNG - ALĂNG NGƯỚC"
-image: "/images/20207/74b9c115-93d1-4d5e-b3d8-8af384e301b3.jpg"
+image: "tuyduyenhoi.github.io/images/20207/74b9c115-93d1-4d5e-b3d8-8af384e301b3.jpg"
 ---
 
 ## Những ngôi làng trong rừng già - Aur, làng của thần rừng
