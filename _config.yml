@@ -1,47 +1,68 @@
+# Site
+title:              Massively
+bio:                'Jekyll version of the Massively theme by HTML5UP'
+description:        "Jekyll version of the Massively theme by HTML5UP"
+locale:             en_US
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "tuyduyenhoi.github.io" # the base hostname & protocol for your site
 
-# Setup
-title:               Live With Passion
-email:
-tagline:             tuyduyenhoi
-url:                 "https://tuyduyenhoi.github.io"
-baseurl:             "/"
-
-# About/contact
-author: # you can edit these to be your personal details
-  name:              tuyduyenhoi
-  url:               https://github.com/tuyduyenhoi
-  email:
-
-# Google services
-google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
-google_analytics: UA-110087713-1
-google_tag_manager:
-# Bing services
-bing_verification:
+# Comments
+disqus_shortname:   default
 
 # Social
-github_username: tuyduyenhoi
-twitter_username:
-instagram_username:
-facebook:
-linkedin_username:
-dribbble_username:
+analytics-id:       "default"
+twitter:            default
+facebook:           default
+instagram:          default
+github:             default
 
-# Custom vars
-version:             1.0.1
-github:
-  repo:              https://github.com/tuyduyenhoi
+# personal
+location:           Los Angeles, CA
+phone:              310-318-5555
+email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
-# Gems - Dependencies for this theme
-gems:
-  # None currently
+# Other
+background_image:   /images/bg.jpg
+# Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
+slapform_thankyou_page: /thank-you
 
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author:
+
+# Jekyll
+permalink:          /blog/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
 sass:
-  sass_dir: _sass
+  sass_dir:         _sass
+  style:            compressed
 
-# Build settings
-markdown:     kramdown
-permalink:    pretty
-highlighter:  rouge
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
