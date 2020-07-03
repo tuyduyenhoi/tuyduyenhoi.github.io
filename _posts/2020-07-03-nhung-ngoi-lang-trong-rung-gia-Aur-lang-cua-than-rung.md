@@ -44,5 +44,5 @@ Aur là ngôi làng của thần rừng. Thật khó để diễn tả niềm ti
 
 Aur, nếu không phải là những phận người đã đi cùng nhau qua bao cuộc di cư, liệu có đằm thắm như bây giờ? Dù sao, chúng tôi đã đặt chân đến đó, cảm thấy mình hạnh phúc khi được một đêm sống cùng, ăn cùng và nghe dân làng hát. Một làng Cơ Tu tuyệt vời!
 
-<audio controls=""><source src="/uploads/f28c7fb3-5866-4481-811d-458f0e3e51cd.mp3?autoplay=0&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio controls=""><source src="/uploads/0f4deee9-dd33-4ea8-a0a1-67ffccfb4217.mp3?autoplay=0&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
 <blockquote>Tuấn Nấm - Ngày Mưa Em Có Buồn Không</blockquote>
