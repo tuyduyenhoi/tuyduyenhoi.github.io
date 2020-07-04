@@ -35,7 +35,7 @@ Sự thăng hoa càng được nâng lên ở 1 tầm cao hơn khi màn đêm bu
 
 Trời càng về khuya, Giếng Trời càng lộ rõ sự khác biệt, khác biệt giữa cái thực và hư, giữa cái đời thường bon chen với cái thanh tịnh của Mẹ thiên nhiên. Và cũng là lúc Giếng Trời đưa con người vào giấc ngủ bằng tiếng suối trong trẻo của mình, dữ dội nhưng hiền hòa, ồn ào nhưng sâu sắc. Tiếng côn trùng kêu giữa màn đêm thanh vắng, cái se se lạnh giữa mùa hạ, cũng đã được Giếng Trời và Mẹ thiên nhiên tô vẽ thêm để vỗ về giấc ngủ. Và rồi, ông mặt trời cũng chịu quay lại với Giếng Trời bằng ánh sáng nhẹ nhàng lúc bình minh. Sự có mặt này, đã đánh thức tất cả mọi người sau 1 giấc ngủ sâu để chuẩn bị cho cuộc hành trình quay lại "thế giới ồn ào" đang chờ đón mọi người phía trước. Tạm biệt Giếng Trời, tạm biệt "cái lần đầu của nửa đời người".
 
-<span class="image fit"><img src="{{ "/uploads/9f678e16-844f-4168-88d9-572496284e2a.jpg" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/uploads/20207/9f678e16-844f-4168-88d9-572496284e2a.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Bông hoa lạ : thiên nhiên, sức sống.</blockquote>
 
 "...Tôi yêu những gì đến tự nhiên
@@ -65,3 +65,5 @@ As more midnight , Heaven's Well has increasingly apparent difference, the diffe
 ....the honest words
 .... And I love you, ' Heaven's Well '..."
 
+<span class="image fit"><img src="{{ "/uploads/20207/edd581f9-69fb-492b-9dc9-8fdd67dc4742.jpg" | absolute_url }}" alt="" /></span>
+<blockquote>Vô Ngã - Người thầm lặng</blockquote>
