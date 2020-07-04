@@ -6,7 +6,7 @@ excerpt: "Vô Ngã"
 image: "tuyduyenhoi.github.io/uploads/20207/20b3b520-45e7-47a8-a29b-4524549509a4.jpg"
 ---
 
-<audio controls=""><source src="/uploads/audio/d1f86018-bd0c-4c3b-93a8-7512d8516c72.mp3?autoplay=0&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio controls=""><source src="/uploads/audio/d1f86018-bd0c-4c3b-93a8-7512d8516c72.mp3?autoplay=1&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
 <blockquote>Ha Okio - Nơi ấy</blockquote>
 
 ### GIẾNG TRỜI (20 & 21/06/2015 - GIỮA MÙA HÈ) 
