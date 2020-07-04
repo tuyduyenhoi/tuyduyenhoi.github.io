@@ -17,7 +17,7 @@ sitemap:
 <html>
 	<head>
     {% include head.html %}
-
+	{% include open-embed.html %}
 
 	</head>
 	<body class="is-loading">
@@ -63,8 +63,9 @@ sitemap:
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:9 %}
+				{% for post in site.posts limit:5 %}
                 {% assign mod3 = forloop.index | modulo: 3 %}
+				{% assign mod4 = forloop.index | modulo: 4 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
@@ -80,8 +81,18 @@ sitemap:
                   <article>
   									<header>
 										  <h2><a href="#">Sponsored</a></h2>
-										  <span class="image fit"><img src="{{ "/uploads/20207/138f8b7f-0eec-44a8-b492-d4176237cff2.jpg" | absolute_url }}" alt="" /></span>
-                                          <blockquote>114/30 Lê Đình Lý - Da Nang, Vietnam</blockquote>
+											<span class="image fit"><img src="{{ "/uploads/20207/138f8b7f-0eec-44a8-b492-d4176237cff2.jpg" | absolute_url }}" alt="" /></span>
+											<blockquote>114/30 Lê Đình Lý - Da Nang, Vietnam</blockquote>
+  									</header>
+
+  								</article>
+                  {% endif %}
+				  {% if mod4 == 0 %}
+                  <article>
+  									<header>
+										  <h2><a href="#">Sponsored</a></h2>
+											<span class="image fit"><img src="{{ "/uploads/20207/00af3ccf-1103-42f8-bad8-66467d3fad58.PNG" | absolute_url }}" alt="" /></span>
+											<blockquote>Quán Ngon - Beefsteak - 368 Đống Đa, Quận Hải Châu, Đà Nẵng.</blockquote>
   									</header>
 
   								</article>
@@ -107,6 +118,5 @@ sitemap:
 		<!-- Scripts -->
 		{% include scripts-main.html %}
     {% include tracking.html %}
-
 	</body>
 </html>

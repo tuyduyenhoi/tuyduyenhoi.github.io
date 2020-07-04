@@ -6,6 +6,9 @@ excerpt: "THÀNH CÔNG - ALĂNG NGƯỚC"
 image: "tuyduyenhoi.github.io/uploads/20207/74b9c115-93d1-4d5e-b3d8-8af384e301b3.jpg"
 ---
 
+<audio controls=""><source src="/uploads/0f4deee9-dd33-4ea8-a0a1-67ffccfb4217.mp3?autoplay=0&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<blockquote>Tuấn Nấm - Ngày Mưa Em Có Buồn Không</blockquote>
+
 ## Những ngôi làng trong rừng già - Aur, làng của thần rừng
 Phía tây Quảng Nam, lẩn khuất trong những cánh rừng già là những ngôi làng của đồng bào các dân tộc ít người. Cách trở về địa lý và những đặc thù phong tục nên những ngôi làng ấy có nhiều câu chuyện vừa huyễn hoặc, vừa là những mảnh ghép văn hóa độc đáo của vùng cao. Chúng tôi đã có một hành trình dài đến những ngôi làng như thế. Từ nóc Măng Lùng của người Xê Đăng chông chênh trên đỉnh Ngọc Linh, đến làng Aur thăm thẳm giữa đại ngàn vùng Tây Giang hay ngôi làng vùng biên Côn Zốt đầy gian khó, in dấu “những đôi chân của gió” và những kỳ thú về luật tục nơi thượng nguồn…
 
@@ -43,6 +46,3 @@ Aur là ngôi làng của thần rừng. Thật khó để diễn tả niềm ti
 Đêm trong gươl, những nụ cười rạng rỡ theo lời kể, điệu hát của già làng. Người Cơ Tu bao đời nay sống với rừng, dựa vào rừng, ra khỏi rừng đồng nghĩa với việc họ mất đi sự chở che. Nhưng tôi cảm nhận được một điều lớn hơn thế. Họ sống với nhau bằng tình đoàn kết, bằng nghĩa anh em ruột thịt. Năm 2010, dịch thổ tả xuất hiện. Giữa rừng, không đủ sức để lấy thuốc hay đến bệnh viện, chị Bhơriu Thị Non - người con dâu của làng đã tự đi hái lá, nấu thuốc chữa bệnh cho cả làng. Cũng khoảng năm đó, một phụ nữ tái giá sau khi chồng mất, bỏ lại 4 đứa con nhỏ ở làng. Người Aur đem về nuôi chung, những đứa trẻ ở trong nhà anh Alăng Mê, lớn lên, được đi học đàng hoàng. Hay gần đây nhất, cả làng Aur đồng ý cho một người Kinh quê Tiên Phước sống trong làng. Họ dựng nhà, cho ông ít sắn, ít lúa rẫy, gọi ông bằng “azây Sanh” - tức chú Sanh - một cách gọi thân thương như người trong nhà. Ông Sanh trở thành người của Aur, cũng là người Kinh duy nhất trong ngôi làng chỉ vỏn vẹn 22 hộ với hơn 100 nhân khẩu này.
 
 Aur, nếu không phải là những phận người đã đi cùng nhau qua bao cuộc di cư, liệu có đằm thắm như bây giờ? Dù sao, chúng tôi đã đặt chân đến đó, cảm thấy mình hạnh phúc khi được một đêm sống cùng, ăn cùng và nghe dân làng hát. Một làng Cơ Tu tuyệt vời!
-
-<audio controls=""><source src="/uploads/0f4deee9-dd33-4ea8-a0a1-67ffccfb4217.mp3?autoplay=0&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<blockquote>Tuấn Nấm - Ngày Mưa Em Có Buồn Không</blockquote>
