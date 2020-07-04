@@ -18,14 +18,14 @@
     - src: /uploads/20207/ca619569-78e7-4cca-a958-7a69c30656f2.jpg
       alt: Norway
   settings:
-    height: 750
+    height: 400
     initialHeight:
     maxHeight:
-    interval:
-    transitionDuration:
+    interval: 5000
+    transitionDuration: 1000
     effect: "'fade'"
     disableNav:
-    keyboardNav:
+    keyboardNav: true
     previousNavSelector:
     nextNavSelector:
 
