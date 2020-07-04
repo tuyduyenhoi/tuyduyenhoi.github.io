@@ -2,6 +2,10 @@
 layout: null
 title: TuyDuyenHoi - Dấu chân
 description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+image_sliders:
+  - slider1
+  - slider2
+  - slider3
 sitemap:
     priority: 1.0
     lastmod: 2017-11-02
@@ -16,7 +20,8 @@ sitemap:
 -->
 <html>
 	<head>
-    {% include head.html %}
+	{% include head.html %}
+	{% include slider_styles.html %}
 	{% include open-embed.html %}
 
 	</head>
@@ -56,7 +61,7 @@ sitemap:
 									<p>Đôi khi bạn liều mình vì công việc, tìm kiếm những cơ hội nhưng lại quên mất bạn cũng cần dành thời gian cho bản thân. Và công việc chỉ là một phần của cuộc sống, còn có những chuyến du lịch khám phá, trải nghiệm ngoài thế giới thực sẽ để lại vô vàn bài học bổ ích và kỷ niệm quý báu. Đó chính là những món quà mà bạn có thể nắm giữ suốt cuộc đời dài rộng này. 
 									</p>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/uploads/20207/795a90a0-9fd1-4456-90b9-b3f664ba2cde.jpg" | absolute_url }}" alt="" /></a>
+								{% include slider.html selector="slider1" %}
 								<blockquote>Một cuộc sống giàu trải nghiệm là bức tranh muôn màu, muôn sắc. Tôi tin chắc rằng sau mỗi chuyến đi, bạn sẽ trưởng thành và sống hết mình hơn mỗi ngày. Để đến nhiều năm sau nhìn lại, bạn không cảm thấy tiếc nuối khoảng thời gian đã qua. Bạn cũng không hối hận khi nghĩ rằng tuổi trẻ của mình đã trôi qua mờ nhạt như làn sương buổi sớm.
 								</blockquote>
 							</article>
@@ -124,6 +129,7 @@ sitemap:
 
 		<!-- Scripts -->
 		{% include scripts-main.html %}
-    {% include tracking.html %}
+	{% include tracking.html %}
+	{% include slider_scripts.html %}
 	</body>
 </html>

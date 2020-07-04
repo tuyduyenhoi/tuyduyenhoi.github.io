@@ -1,0 +1,63 @@
+- selector: slider1
+  bullets: false
+  captions: true
+  images:
+    - src: /uploads/20207/795a90a0-9fd1-4456-90b9-b3f664ba2cde.jpg
+      alt: Hòa Ninh - 06/2020
+    - data-src: /uploads/20207/3f59c0ed-f4af-49fd-aa03-3687b92600e1.jpg
+      alt: Norway
+    - data-src: /uploads/20207/74a80ca4-7b96-492d-815e-eda3fd0de035.jpg
+      data-src-2x: /uploads/20207/046104cd-f080-4e5c-851e-8075da3dd52b.jpg
+      alt: Norway
+    - src: /uploads/20207/a1bd6a4a-b957-47f8-a03d-20a4adf928a5.jpg
+      alt: Norway
+    - src: /uploads/20207/af095e22-0bcc-45ba-a1a8-4e5c063f7a69.jpg
+      alt: Norway
+    - src: /uploads/20207/c03f260c-92cc-47c9-b7e2-9e0ba95540a0.jpg
+      alt: Norway
+    - src: /uploads/20207/ca619569-78e7-4cca-a958-7a69c30656f2.jpg
+      alt: Norway
+  settings:
+    height: 750
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect: "'fade'"
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: slider2
+  bullets: true
+  captions: true
+  images:
+    - src: /img/1.jpg
+      title: Balloons!
+      alt: This slider has caption titles
+    - data-src: /img/2.jpg
+      title: This slider uses the fade effect
+      alt: Instead of the default slide effect
+    - data-src: /img/3.jpg
+      data-src-2x: /img/3@2x.jpg
+    - src: /img/4.jpg
+      title: Last image had no caption!
+      alt: Also, this image has no link
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: slider3
+  images:
+    - src: /img/1.jpg
+      alt: image one
+    - src: /img/2.jpg
+      alt: image two
+    - src: /img/3.jpg
+      alt: image three
+    - src: /img/4.jpg
+      alt: image four
+  settings:
+    height: "'auto'"
+    disableNav: true
