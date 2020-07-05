@@ -2,8 +2,8 @@
   bullets: false
   captions: true
   images:
-    - src: /uploads/20207/795a90a0-9fd1-4456-90b9-b3f664ba2cde.jpg
-      alt: Hòa Ninh - 06/2020
+    - src: /uploads/20207/046104cd-f080-4e5c-851e-8075da3dd52b.jpg
+      alt: The Land of Wonders 🏔 Norway 😍 Photos by_ @tomashavel [IG] with Eve Photography
     - data-src: /uploads/20207/3f59c0ed-f4af-49fd-aa03-3687b92600e1.jpg
       alt: The Land of Wonders 🏔 Norway 😍 Photos by_ @tomashavel [IG] with Eve Photography
     - data-src: /uploads/20207/74a80ca4-7b96-492d-815e-eda3fd0de035.jpg
@@ -61,3 +61,5 @@
   settings:
     height: "'auto'"
     disableNav: true
+    
+    <!-- /uploads/20207/795a90a0-9fd1-4456-90b9-b3f664ba2cde.jpg -->
