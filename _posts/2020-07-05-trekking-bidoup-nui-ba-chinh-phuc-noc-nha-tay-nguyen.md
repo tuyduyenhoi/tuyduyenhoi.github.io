@@ -63,12 +63,7 @@ image: "tuyduyenhoi.github.io/uploads/20207/c30ec63a-a8d9-4cce-916a-321c4f0a5f49
 Trong chuyến hành trình khám phá cao nguyên Lang Biang, du khách đừng quên chinh phục Bidoup – đỉnh núi được xem là cao nhất tỉnh Lâm Đồng và là “nóc nhà” của Tây Nguyên. Khám phá hệ thực vật vườn quốc gia, khám phá mùa lá phong đỏ Tuyến đường Bidoup, vẻ đẹp tiềm ẩn của tạo hóa. Đã bao giờ bạn nghĩ rằng mình sẽ bị đánh thức bởi tiếng chim rừng hót vào buổi sáng tinh mơ? thấy sóc, heo rừng hoặc gà rừng chạy lăng quăng tìm thức ăn trong tự nhiên? Nếu chưa thì chuyến hành trình trekking đến đỉnh núi được xem là cao nhất cao nguyên Lâm Viên với độ cao 2.287m sẽ là lựa chọn thích hợp với bạn. Cuộc hành trình bắt đầu băng qua các tán rừng thông, qua các con sông con suối là nơi bắt nguồn của con sông Đa Nhim nối liền tỉnh Lâm Đồng và Ninh Thuận, và đến với rừng nguyên sinh nơi có hệ sinh thái đặc trưng và đa dạng, hệ động thực vật đặc hữu, quý hiếm như: Mi Langbiang, Sẻ thông họng vàng, Vượn, Vọoc, Ếch ma cà rồng, cây Pơ Mu đại thụ hơn 1.300 tuổi, đỗ quyên Langbiang, và các loài lan…
 
 <span class="image fit"><img src="{{ "/uploads/20207/d41afd9d-9bd0-4ab2-b64c-890e8229b141.jpg" | absolute_url }}" alt="" /></span>
-<blockquote>...</blockquote>
-
-Tuyến đường Bidoup, vẻ đẹp tiềm ẩn của tạo hóa.
-
-Đã bao giờ bạn nghĩ rằng mình sẽ bị đánh thức bởi tiếng chim rừng hót vào buổi sáng tinh mơ? thấy sóc, heo rừng hoặc gà rừng chạy lăng quăng tìm thức ăn trong tự nhiên? Nếu chưa thì chuyến hành trình trekking đến đỉnh núi được xem là cao nhất cao nguyên Lâm Viên với độ cao 2.287m sẽ là lựa chọn thích hợp với bạn. Cuộc hành trình bắt đầu băng qua các tán rừng thông, qua các con sông con suối là nơi bắt nguồn của con sông Đa Nhim nối liền tỉnh Lâm Đồng và Ninh Thuận, và đến với rừng nguyên sinh nơi có hệ sinh thái đặc trưng và đa dạng, hệ động thực vật đặc hữu, quý hiếm như: Mi Langbiang, Sẻ thông họng vàng, Vượn, Vọoc, Ếch ma cà rồng, cây Pơ Mu đại thụ hơn 1.300 tuổi, đỗ quyên Langbiang, và các loài lan…
-
+<blockquote>Tuyến đường Bidoup, vẻ đẹp tiềm ẩn của tạo hóa.</blockquote>
 <span class="image fit"><img src="{{ "/uploads/20207/2151be44-749a-43fa-86cf-9c034acb79db.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>...</blockquote>
 
