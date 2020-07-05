@@ -73,7 +73,7 @@ Chúng tôi đốt đống lửa to bên vách đá. Dùng tấm bạc nhựa tr
 
 (Chưa xong phần 3, giờ tác giả chuẩn bị đi ăn tiệc. Tối về viết tiếp phần ăn uống, ca hát và ngủ nghê :-D)
 
-<span class="image fit"><img src="{{ "/uploads/20207/a81ff066-1ef3-4d2b-919e-20b58b09e3d4.jpg.jpg" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/uploads/20207/a81ff066-1ef3-4d2b-919e-20b58b09e3d4.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Đang trong trận chiến</blockquote>
 
 <span class="image fit"><img src="{{ "/uploads/20207/01193614-5f95-4068-9fdf-efead59c4623.jpg" | absolute_url }}" alt="" /></span>
@@ -83,4 +83,4 @@ Chúng tôi đốt đống lửa to bên vách đá. Dùng tấm bạc nhựa tr
 <blockquote>Rừng hoang đầy thú dữ</blockquote>
 
 <span class="image fit"><img src="{{ "/uploads/20207/c50e3924-603b-49e1-b83a-45f40d6c8716.jpg" | absolute_url }}" alt="" /></span>
-<blockquote>Rừng hoang đầy thú dữ</blockquote>
+<blockquote>Tự sướng vãi</blockquote>
