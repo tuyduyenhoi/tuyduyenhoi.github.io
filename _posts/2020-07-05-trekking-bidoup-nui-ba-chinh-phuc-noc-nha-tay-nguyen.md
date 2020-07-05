@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Trekking Bidoup - Núi Bà chinh phục nóc nhà Tây Nguyên"
-date:   2020-07-05
-excerpt: "TuyDuyenHoi"
-image: "tuyduyenhoi.github.io/uploads/20207/c30ec63a-a8d9-4cce-916a-321c4f0a5f49.jpg"
+title: Trekking Bidoup - Núi Bà chinh phục nóc nhà Tây Nguyên
+date: {}
+excerpt: TuyDuyenHoi
+image: tuyduyenhoi.github.io/uploads/20207/c30ec63a-a8d9-4cce-916a-321c4f0a5f49.jpg
+published: true
 ---
 
 <audio controls=""><source src="/uploads/audio/c6fceb4a-544c-4180-b1a2-99fbbbf9d203.mp3?autoplay=1&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
@@ -137,8 +138,10 @@ Ngày 2: Bãi cắm trại - Trạm Kiểm Lâm Bidoup - đường 723: 17 km (1
 - Một bộ dụng cụ vệ sinh cá nhân
 - Viên sủi vitamin C
 - Một số dụng cụ y tế cơ bản phòng bị trầy xước trên đường đi
+
 • Hành lý mang theo:
 - Chỉ cần mang theo hành lý cần thiết cho chuyến đi: áo ấm, quần áo. Không đeo ba lô dây rút.
+
 • Trong hành trình leo núi:
 - Buổi sáng đầu tiên bạn nên ăn đầy đủ
 - Nên có một cây gậy chống trong suốt hành trình
