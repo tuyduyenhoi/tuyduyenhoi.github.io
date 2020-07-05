@@ -49,7 +49,7 @@ image: "tuyduyenhoi.github.io/uploads/20207/c30ec63a-a8d9-4cce-916a-321c4f0a5f49
             </tr>
             <tr>
                 <td>Liên hệ:</td>
-                <td>tuyduyenhoi@gmail.com</td>
+                <td>Tuấn Nấm</td>
             </tr>
         </tbody>
         <tfoot>
