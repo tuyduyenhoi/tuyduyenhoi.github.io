@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Người với Người, quá đổi yêu thương"
-date:   2020-06-30
+date:   2020-07-01
 excerpt: "Trà My"
 image: "tuyduyenhoi.github.io/uploads/20207/9c27b09e-bbbf-49aa-8a9f-f43bf50b1252.jpg"
 ---
