@@ -64,6 +64,7 @@ Trong chuyến hành trình khám phá cao nguyên Lang Biang, du khách đừng
 
 <span class="image fit"><img src="{{ "/uploads/20207/d41afd9d-9bd0-4ab2-b64c-890e8229b141.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Tuyến đường Bidoup, vẻ đẹp tiềm ẩn của tạo hóa.</blockquote>
+
 <span class="image fit"><img src="{{ "/uploads/20207/2151be44-749a-43fa-86cf-9c034acb79db.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>...</blockquote>
 
