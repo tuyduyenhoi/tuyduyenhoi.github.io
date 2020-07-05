@@ -56,7 +56,7 @@ Tiếp theo.... (Phần 3: Bữa tiệc hoành tráng giữa đại ngàn)
 <blockquote>Rừng hoang đầy thú dữ</blockquote>
 
 <span class="image fit"><img src="{{ "/uploads/20207/ec4f875a-a4b6-49f1-9537-341ef518d8c6.jpg" | absolute_url }}" alt="" /></span>
-<blockquote>Đó là tôi, chính tối! </blockquote>
+<blockquote>Đó là tôi, chính tôi! </blockquote>
 
 <span class="image fit"><img src="{{ "/uploads/20207/9f6bdfb4-f935-472c-ac7d-0a79a2bede17.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Có những tháng ngày như thế</blockquote>
