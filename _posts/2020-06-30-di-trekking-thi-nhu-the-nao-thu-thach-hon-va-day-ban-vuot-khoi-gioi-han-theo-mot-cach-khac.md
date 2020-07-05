@@ -6,8 +6,8 @@ excerpt: "tourradar"
 image: "tuyduyenhoi.github.io/uploads/20207/inca-trail-peru.jpg"
 ---
 
-<audio controls=""><source src="/uploads/audio/c6fceb4a-544c-4180-b1a2-99fbbbf9d203.mp3?autoplay=1&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<blockquote>Nguyễn Hải Phong - Dòng thời gian</blockquote>
+<audio controls=""><source src="/uploads/audio/4bbf81c1-512c-43cc-8b46-5b947fc8210d.mp3?autoplay=1&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<blockquote>Bức Tường - Những chuyến đi dài</blockquote>
 
 **Nếu bạn có chút máu mạo hiểm và yêu thích gần gũi với thiên nhiên, thì hãy thử đi tour hiking hoặc trekking, bạn sẽ có trải nghiệm nhớ đời.**
 
