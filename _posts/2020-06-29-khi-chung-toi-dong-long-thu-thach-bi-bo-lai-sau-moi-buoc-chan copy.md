@@ -19,10 +19,8 @@ image: "tuyduyenhoi.github.io/uploads/20207/289371fb-8d01-4ff1-80a6-ff085834a5d0
 
 Đúng 5g30 xuất hiện ngay trước công viên 29/3. Tôi không nghĩ Quỳnh, Vân có óc tưởng tượng khôi hài đến thế. Ngoài anh Chương, người có mặt trước chúng tôi là Hiếu, trông chuyên nghiệp như một phượt thủ lâu năm: ba lô "cực chất", giày bộ đội đi rừng, băng vải quấn chỗ tiếp giáp giữa giày với ống quần hẳn hoi. Hai cô nàng bắt đầu thấy tim đập thình thịch. Tiếp theo là anh Tiền, èng èng èng chiếc mô tô khủng, quay đầu xe cái véo, đỗ xe cái xịch. Hai nàng thấy mặt mình đổi màu xanh, xanh của tàu lá chuối. Tôi nghe tâm sự, không nhịn được cười.
 
-```bash
 Hai mươi tư tên lính đăng kí nhập ngũ. Chưa kịp ra trận thì đào ngũ trước bảy tên. Còn lại mười bảy tên "lì đòn". 
 Tôi thấy đó là một đội hình chuẩn. Sáu cô gái và mười một chàng trai, chưa dám khẳng định về thể chất, nhưng rất chuẩn về tinh thần, ý chí, quyết tâm. Tôi may mắn được đồng hành.
-```
 
 Giếng Trời là khu vực một con thác đổ xuống hố sâu, giữa đại ngàn cao vút hệt như cái giếng của tự nhiên, thuộc khu vực núi Bà Nà. Từ cây cầu ngay chân Bà Nà Hill rẽ phải, đi về hướng đường mòn, vào sâu khoảng 10km. Có thể leo xe máy, đoạn đầu khá khó khăn nhưng dĩ nhiên dễ dàng hơn băng rừng cuốc bộ. Chúng tôi chọn cách trải nghiệm với thiên nhiên, vượt qua giới hạn của bản thân - trekking mười cây số.
 
