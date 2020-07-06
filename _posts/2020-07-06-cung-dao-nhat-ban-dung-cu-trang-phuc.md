@@ -5,6 +5,7 @@ date: 2020-07-06
 excerpt: TuyDuyenHoi
 image: tuyduyenhoi.github.io/uploads/kyudo/db0a850c-b48f-4ef4-ab3a-65b2f6e1bfec.jpg
 published: true
+tags: kyudo
 sitemap:
     priority: 0.2
     lastmod: 2020-07-06

@@ -53,15 +53,8 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-tag_permalink_style: pretty
-tag_page_layout: tag_page
-tag_page_dir: blog/tag
-tag_feed_layout: tag_feed
-tag_feed_dir: tag
-languages: [vn, en]
-
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
@@ -70,6 +63,13 @@ gems:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
+
+tag_permalink_style: pretty
+tag_page_layout: tagpage
+tag_page_dir: tag
+tag_feed_layout: tagfeed
+tag_feed_dir: tag
+languages: [vn, en]
 
 jekyll-mentions:
     base_url: https://github.com

@@ -1,5 +1,5 @@
 ---
-layout: tag_page
+layout: tagpage
 title: "Tag: hololens"
 tag: hololens
 ---
