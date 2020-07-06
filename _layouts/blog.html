@@ -41,8 +41,8 @@
 					<!-- Post -->
 					<section class="posts">
 						{% for post in site.posts %}
-						{% assign mod3 = forloop.index | modulo: 3 %}
 						{% assign mod4 = forloop.index | modulo: 4 %}
+						{% assign mod5 = forloop.index | modulo: 5 %}
 							<article>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
@@ -54,7 +54,7 @@
 									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
 								</ul>
 							</article>
-							{% if mod3 == 0 %}
+							{% if mod4 == 0 %}
 							<article>
 												<header>
 													<h2><a target="_blank" href="https://www.facebook.com/balladcafe">Sponsored</a><a target="_blank" href="https://www.facebook.com/balladcafe"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.facebook.com%2Fballadcafe"/></a></h2>
@@ -64,7 +64,7 @@
 			
 											</article>
 							{% endif %}
-							{% if mod4 == 0 %}
+							{% if mod5 == 0 %}
 							<article>
 												<header>
 													<h2><a target="_blank" href="https://www.facebook.com/368dongda">Sponsored</a><a target="_blank" href="https://www.facebook.com/368dongda"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.facebook.com%2F368dongda"/></a></h2>
