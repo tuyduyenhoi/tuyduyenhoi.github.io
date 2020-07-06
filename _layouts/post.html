@@ -36,6 +36,12 @@
       				<p>{{page.excerpt}}</p>
       			</header>
             <div class="image main"><img src="/{{page.image}}" alt=""></div>
+            <span>[
+              {% for tag in page.tags %}
+                {% capture tag_name %}{{ tag }}{% endcapture %}
+                <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+              {% endfor %}
+            ]</span>
             <p>{{content}}</p>
             <!-- COMMENTS START -->
             <div id="hyvor-talk-view"></div>
