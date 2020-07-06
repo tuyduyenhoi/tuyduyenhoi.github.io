@@ -82,3 +82,12 @@ Dịch bởi: Ai Linh Manh – Nguồn: [1](http://www.ikyf.org) The History of 
 - 9h – 9h30 chuẩn bị dụng cụ và luyện bắn bia xa 28m (người mới chỉ quan sát)
 - 9h30 – 11h30 luyện bia gần
 - 11h30 – 12h dọn dẹp
+
+<h2>Kyudo</h2>
+<div class="embed-youtube">
+    <ul>
+        <li>
+            {% include youtubePlayerList.html id="PLBJlO6-mjR68TJZadHviiV-TO1elx7nT1" %}
+        </li>
+    </ul>
+</div>
