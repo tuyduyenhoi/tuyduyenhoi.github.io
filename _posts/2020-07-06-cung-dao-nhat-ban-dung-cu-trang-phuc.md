@@ -64,7 +64,11 @@ Dịch bởi: Ai Linh Manh – Nguồn: [1](http://www.ikyf.org) The History of 
 - 9h30 – 11h30 luyện bia gần
 - 11h30 – 12h dọn dẹp
 
-<h2>Danang Kyudo</h2>
-<div class="align-center">
-    {% include slider.html selector="slider2" %}
+<h2>Kyudo</h2>
+<div class="embed-youtube">
+    <ul>
+        <li>
+            {% include youtubePlayerList.html id="PLBJlO6-mjR68TJZadHviiV-TO1elx7nT1" %}
+        </li>
+    </ul>
 </div>
