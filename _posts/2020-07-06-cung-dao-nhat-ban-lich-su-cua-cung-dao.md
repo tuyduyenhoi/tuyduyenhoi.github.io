@@ -5,6 +5,10 @@ date: 2020-07-06
 excerpt: TuyDuyenHoi
 image: tuyduyenhoi.github.io/uploads/kyudo/e57a568a-2451-469b-9582-592796ef08b2.jpg
 published: true
+sitemap:
+    priority: 0.1
+    lastmod: 2020-07-06
+    changefreq: weekly
 ---
 
 ## Cung tên Nhật Bản
@@ -54,7 +58,7 @@ Toshiya đòi hỏi phải bắn nhanh bằng kỹ thuật Uchikiri, vậy nên 
 
 ## Cung đạo thời hiện đại
 
-Khi thời kỳ Edo không có chiến tranh, cung đạo đã được theo đuổi như là một môn nghệ thuật và được phát triển thành Kyudo, nghĩa là Cung Đạo/Đạo bắn cung. Tuy nhiên tại Kobusho, một trường nghệ thuật quân sự chính thức Processed with VSCO with c3 presetđược thành lập bởi Edo Shogunate 
+Khi thời kỳ Edo không có chiến tranh, cung đạo đã được theo đuổi như là một môn nghệ thuật và được phát triển thành Kyudo, nghĩa là Cung Đạo/Đạo bắn cung. Tuy nhiên tại Kobusho, một trường nghệ thuật quân sự chính thức được thành lập bởi Edo Shogunate 
 
 <span class="image right"><img src="{{ "/uploads/kyudo/53e92432-ed6f-4f06-aa41-6b8588b80b07.jpg" | absolute_url }}" alt="" />Ảnh: DanangKyudo</span>
 
