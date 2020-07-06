@@ -6,7 +6,7 @@ excerpt: "Trà My"
 image: "tuyduyenhoi.github.io/uploads/20207/289371fb-8d01-4ff1-80a6-ff085834a5d0.jpg"
 ---
 
-<audio controls=""><source src="/uploads/audio/062a4034-ddc7-4cf8-9221-cf169c348c02.mp3?autoplay=1&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<p>/uploads/audio/062a4034-ddc7-4cf8-9221-cf169c348c02.mp3?autoplay=1&loop=1&controls=1</p>
 <blockquote>Tron-Den-Linh-Cao - Dua-Nhau-Di</blockquote>
 
 ### GIẾNG TRỜI - NGƯỜI VỚI NGƯỜI, QUÁ ĐỖI YÊU THƯƠNG! (Phần 2)

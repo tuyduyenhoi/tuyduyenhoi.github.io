@@ -6,7 +6,7 @@ excerpt: "tourradar"
 image: "tuyduyenhoi.github.io/uploads/20207/Trolltunga-Norway.jpg"
 ---
 
-<audio controls=""><source src="/uploads/audio/cbb089b4-cc5c-466e-882f-a2ed7118cccf.mp3?autoplay=1&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<p>/uploads/audio/cbb089b4-cc5c-466e-882f-a2ed7118cccf.mp3?autoplay=1&loop=1&controls=1</p>
 <blockquote>Thùy Chi - Ba kể Con nghe</blockquote>
 
 **Nếu bạn có chút máu mạo hiểm và yêu thích gần gũi với thiên nhiên, thì hãy thử đi tour hiking hoặc trekking, bạn sẽ có trải nghiệm nhớ đời.**

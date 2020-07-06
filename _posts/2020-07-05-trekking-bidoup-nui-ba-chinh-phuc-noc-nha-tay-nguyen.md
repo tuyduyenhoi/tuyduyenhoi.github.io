@@ -7,7 +7,7 @@ image: tuyduyenhoi.github.io/uploads/20207/c30ec63a-a8d9-4cce-916a-321c4f0a5f49.
 published: true
 ---
 
-<p>tuyduyenhoi.github.io/uploads/audio/c6fceb4a-544c-4180-b1a2-99fbbbf9d203.mp3?autoplay=1&loop=1&controls=0</p>
+<p>/uploads/audio/0f4deee9-dd33-4ea8-a0a1-67ffccfb4217.mp3?autoplay=1&loop=1&controls=1</p>
 <blockquote>Nguyễn Hải Phong - Dòng thời gian</blockquote>
 
 ## Tour Trekking Bidoup - Núi Bà chinh phục nóc nhà Tây Nguyên

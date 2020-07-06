@@ -6,7 +6,7 @@ excerpt: "Trà My"
 image: "tuyduyenhoi.github.io/uploads/20207/e1b03d08-23ea-45f4-966b-ea09cfc446c2.jpg"
 ---
 
-<audio controls=""><source src="/uploads/audio/c6fceb4a-544c-4180-b1a2-99fbbbf9d203.mp3?autoplay=1&loop=1&controls=0" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<p>/uploads/audio/c6fceb4a-544c-4180-b1a2-99fbbbf9d203.mp3?autoplay=1&loop=1&controls=1</p>
 <blockquote>Nguyễn Hải Phong - Dòng thời gian</blockquote>
 
 ### GIẾNG TRỜI – NGƯỜI VỚI NGƯỜI, QUÁ ĐỖI YÊU THƯƠNG (Phần 3)
