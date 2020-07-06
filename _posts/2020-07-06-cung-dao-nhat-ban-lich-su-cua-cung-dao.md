@@ -66,7 +66,7 @@ Khi thời kỳ Edo không có chiến tranh, cung đạo đã được theo đu
 
 <span class="image right"><img src="{{ "/uploads/kyudo/524f6088-b01a-4905-bf18-a6938609da5a.jpg" | absolute_url }}" alt="" />Ảnh: International Kyudo Federation</span>
 
-Trong thời Taisho và tiền Showa, Kyudo đã được đưa vào các trường trung học nếu không như một môn chính thì sẽ như một hoạt động ngoại khóa. Thế nhưng, khi chiến tranh thế giới thứ II nổ ra, bộ Giáo dục thay đổi chính sách và một lần nữa Kyudo bị loại history_img005trừ vì nó không liên hệ trực tiếp tới thực chiến. Sau chiến tranh, tất cả các môn võ thuật đều bị cấm trong trường học.
+Trong thời Taisho và tiền Showa, Kyudo đã được đưa vào các trường trung học nếu không như một môn chính thì sẽ như một hoạt động ngoại khóa. Thế nhưng, khi chiến tranh thế giới thứ II nổ ra, bộ Giáo dục thay đổi chính sách và một lần nữa Kyudo bị loại trừ vì nó không liên hệ trực tiếp tới thực chiến. Sau chiến tranh, tất cả các môn võ thuật đều bị cấm trong trường học.
 
 Năm 1951, một lần nữa Kyudo được phép đưa vào luyện tập trong các trường. Năm 1967, Kyudo đã được thông qua như là một môn học phổ thông bình thường. Các khía cạnh về giáo dục và thể thao của Kyudo đã được đánh giá và ghi nhận. Cung đạo hiện đại sau đó trở thành một phần của môn giáo dục thể chất.
 
