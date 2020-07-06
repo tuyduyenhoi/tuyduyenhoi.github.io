@@ -73,7 +73,7 @@ Dịch bởi: Ai Linh Manh – Nguồn: [1](http://www.ikyf.org) The History of 
 <span class="image fit"><img src="{{ "/uploads/kyudo/bbe1acdb-a5f2-4555-b15a-3e8617d63fc1.jpg" | absolute_url }}" alt="" /></span>
 ## Chân – Thiện – Mỹ
 
-Câu lạc bộ Cung Đạo Nhật Bản Đà Nẵng được thành lập vào ngày 2016-07-01 với mục đích giới thiệu nét văn hoá độc đáo và thiền khá phổ biến trong đời sống tinh thần người Nhật. CLB sẽ dẫn dắt các bạn từng bước làm quen với nghệ thuật bắn cung Nhật Bản, ngoài việc tiếp cận kỹ thuật bắn cung các bạn còn được hướng dẫn các nghi thức mang tính lễ nghi đậm triết lý thiền trong võ đạo Nhật Bản.
+**Câu lạc bộ Cung Đạo Nhật Bản Đà Nẵng** được thành lập vào ngày 2016-07-01 với mục đích giới thiệu nét văn hoá độc đáo và thiền khá phổ biến trong đời sống tinh thần người Nhật. CLB sẽ dẫn dắt các bạn từng bước làm quen với nghệ thuật bắn cung Nhật Bản, ngoài việc tiếp cận kỹ thuật bắn cung các bạn còn được hướng dẫn các nghi thức mang tính lễ nghi đậm triết lý thiền trong võ đạo Nhật Bản.
 
 **Địa điểm :** Trường tiểu học Võ Thị Sáu – 01 đường Võ Thị Sáu quận Hải Châu. 
 <br/>(Trên đường 3 tháng 2 rẽ vào gần cầu Thuận Phước)<br/>
