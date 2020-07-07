@@ -11,7 +11,7 @@ image_sliders:
   - slider2
   - slider3
 sitemap:
-    priority: 0.2
+    priority: 1
     lastmod: 2020-07-07
     changefreq: weekly
 ---
@@ -61,3 +61,5 @@ sitemap:
         </li>
     </ul>
 </div>
+
+Tiếp theo: **Cung Đạo Nhật Bản - Lịch sử của Cung Đạo - Phần 1**

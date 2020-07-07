@@ -51,4 +51,4 @@ sitemap:
 <div class="embed-youtube">
     {% include youtubePlayerList.html id="PLIEBeDbBRv_nxbcGQzGUSDtJ_0EJAyciJ" %}
 </div>
-<blockquote>Bầu sô tại <a target="_blank" href="#">Corporate Background Music For Business, Presentation & Corporation</a>!</blockquote>
+<blockquote>Corporate Background Music For Business, Presentation & Corporation</blockquote>

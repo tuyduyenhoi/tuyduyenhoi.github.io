@@ -7,7 +7,7 @@ image: tuyduyenhoi.github.io/uploads/kyudo/e57a568a-2451-469b-9582-592796ef08b2.
 published: true
 tags: kyudo
 sitemap:
-    priority: 0.1
+    priority: 0.9
     lastmod: 2020-07-06
     changefreq: weekly
 ---
@@ -77,6 +77,8 @@ Năm 1951, một lần nữa Kyudo được phép đưa vào luyện tập trong
 Sứ mệnh của Cung đạo hiện đại là theo đuổi việc làm thế nào theo quan niệm tâm linh mới mà Kyudo có thể đóng góp trên phương diện giáo dục, bằng cách dùng bất cứ phương pháp tiếp cận khoa học nào sẵn có và để truyền bá môn nghệ thuật này.
 
 Dịch bởi: Ai Linh Manh – Nguồn: [1](http://www.ikyf.org) The History of Kyudo
+
+Tiếp theo: **Cung Đạo Nhật Bản - Dụng cụ, Trang phục - Phần 2**
 
 <span class="image fit"><img src="{{ "/uploads/kyudo/bbe1acdb-a5f2-4555-b15a-3e8617d63fc1.jpg" | absolute_url }}" alt="" /></span>
 ## Chân – Thiện – Mỹ

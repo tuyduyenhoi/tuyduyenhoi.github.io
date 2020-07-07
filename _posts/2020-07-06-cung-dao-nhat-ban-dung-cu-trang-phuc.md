@@ -7,7 +7,7 @@ image: tuyduyenhoi.github.io/uploads/kyudo/db0a850c-b48f-4ef4-ab3a-65b2f6e1bfec.
 published: true
 tags: kyudo
 sitemap:
-    priority: 0.2
+    priority: 0.8
     lastmod: 2020-07-06
     changefreq: weekly
 ---
@@ -54,6 +54,8 @@ Trang phục cần phù hợp với thời gian, địa điểmvà sự kiện. 
 Khi bắn cung trong trang phục Wafuku hoặc Kyudogi (màu trắng là thích hợp hơn cả), tốt hơn là nên mặc hakama loại machidaka-bakama (hakama kiểu quần). Một cung thủ nam mặc Wafuku mang Kamon (gia huy) không nên mặc đồ lót Tây phương, hoặc một áo phông ở trong.
 
 Dịch bởi: Ai Linh Manh – Nguồn: [1](http://www.ikyf.org) Equipment-Clothing
+
+Tiếp theo: **Cung Đạo Nhật Bản - Chân-Thiện-Mỹ - Phần 3**
 
 <span class="image fit"><img src="{{ "/uploads/kyudo/bbe1acdb-a5f2-4555-b15a-3e8617d63fc1.jpg" | absolute_url }}" alt="" /></span>
 ## Chân – Thiện – Mỹ
