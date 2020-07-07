@@ -5,6 +5,7 @@ date: 2020-07-05
 excerpt: TuyDuyenHoi
 image: tuyduyenhoi.github.io/uploads/20207/c30ec63a-a8d9-4cce-916a-321c4f0a5f49.jpg
 published: true
+tags: trekking
 ---
 
 <p>/uploads/audio/0f4deee9-dd33-4ea8-a0a1-67ffccfb4217.mp3?autoplay=1&loop=1&controls=1</p>

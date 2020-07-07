@@ -4,6 +4,7 @@ title:  "Người với Người, quá đổi yêu thương"
 date:   2020-07-01
 excerpt: "Trà My"
 image: "tuyduyenhoi.github.io/uploads/20207/9c27b09e-bbbf-49aa-8a9f-f43bf50b1252.jpg"
+tags: trekking giengtroi
 ---
 
 <p>/uploads/audio/c6fceb4a-544c-4180-b1a2-99fbbbf9d203.mp3?autoplay=1&loop=1&controls=1</p>

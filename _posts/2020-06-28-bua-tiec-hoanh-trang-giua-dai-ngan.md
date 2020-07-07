@@ -4,6 +4,7 @@ title:  "Bữa tiệc hoành tráng giữa đại ngàn"
 date:   2020-06-29
 excerpt: "Trà My"
 image: "tuyduyenhoi.github.io/uploads/20207/e1b03d08-23ea-45f4-966b-ea09cfc446c2.jpg"
+tags: trekking giengtroi
 ---
 
 <p>/uploads/audio/c6fceb4a-544c-4180-b1a2-99fbbbf9d203.mp3?autoplay=1&loop=1&controls=1</p>

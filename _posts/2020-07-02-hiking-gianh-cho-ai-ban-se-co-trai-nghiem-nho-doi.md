@@ -4,6 +4,7 @@ title:  "Hiking giành cho ai - Bạn sẽ có trải nghiệm nhớ đời."
 date:   2020-07-02
 excerpt: "tourradar"
 image: "tuyduyenhoi.github.io/uploads/20207/Trolltunga-Norway.jpg"
+tags: hiking
 ---
 
 <p>/uploads/audio/cbb089b4-cc5c-466e-882f-a2ed7118cccf.mp3?autoplay=1&loop=1&controls=1</p>

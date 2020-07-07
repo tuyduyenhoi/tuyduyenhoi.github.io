@@ -43,6 +43,12 @@
               {% endfor %}
             ]</span>
             <p>{{content}}</p>
+            <span>[
+              {% for tag in page.tags %}
+                {% capture tag_name %}{{ tag }}{% endcapture %}
+                <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+              {% endfor %}
+            ]</span>
             <!-- COMMENTS START -->
             <div id="hyvor-talk-view"></div>
             <script type="text/javascript">
@@ -91,7 +97,7 @@
 						</footer>
 					</div>
 
-				<!-- Footer -->
+        <!-- Footer -->
         {% include foot.html %}
 
 			</div>

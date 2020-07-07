@@ -4,6 +4,7 @@ title:  "Đi Trekking thì như thế nào - thử thách hơn và đẩy bạn 
 date:   2020-06-30
 excerpt: "tourradar"
 image: "tuyduyenhoi.github.io/uploads/20207/inca-trail-peru.jpg"
+tags: trekking
 ---
 
 <p>/uploads/audio/4bbf81c1-512c-43cc-8b46-5b947fc8210d.mp3?autoplay=1&loop=1&controls=1</p>
