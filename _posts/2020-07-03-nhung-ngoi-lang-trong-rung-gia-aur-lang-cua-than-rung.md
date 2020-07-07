@@ -7,7 +7,7 @@ image: "tuyduyenhoi.github.io/uploads/20207/74b9c115-93d1-4d5e-b3d8-8af384e301b3
 tags: hiking
 ---
 
-<p>/uploads/audio/0f4deee9-dd33-4ea8-a0a1-67ffccfb4217.mp3?autoplay=1&loop=1&controls=1</p>
+<p>/uploads/audio/0f4deee9-dd33-4ea8-a0a1-67ffccfb4217.mp3?autoplay=0&loop=1&controls=1</p>
 <blockquote>Tuấn Nấm - Ngày Mưa Em Có Buồn Không</blockquote>
 
 ## Những ngôi làng trong rừng già - Aur, làng của thần rừng

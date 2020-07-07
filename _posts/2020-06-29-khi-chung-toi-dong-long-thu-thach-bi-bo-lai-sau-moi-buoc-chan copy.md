@@ -7,7 +7,7 @@ image: "tuyduyenhoi.github.io/uploads/20207/289371fb-8d01-4ff1-80a6-ff085834a5d0
 tags: trekking giengtroi
 ---
 
-<p>/uploads/audio/062a4034-ddc7-4cf8-9221-cf169c348c02.mp3?autoplay=1&loop=1&controls=1</p>
+<p>/uploads/audio/062a4034-ddc7-4cf8-9221-cf169c348c02.mp3?autoplay=0&loop=1&controls=1</p>
 <blockquote>Tron-Den-Linh-Cao - Dua-Nhau-Di</blockquote>
 
 ### GIẾNG TRỜI - NGƯỜI VỚI NGƯỜI, QUÁ ĐỖI YÊU THƯƠNG! (Phần 2)

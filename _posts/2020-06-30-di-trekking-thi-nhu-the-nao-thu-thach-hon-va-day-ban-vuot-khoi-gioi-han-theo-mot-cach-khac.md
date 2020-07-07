@@ -7,7 +7,7 @@ image: "tuyduyenhoi.github.io/uploads/20207/inca-trail-peru.jpg"
 tags: trekking
 ---
 
-<p>/uploads/audio/4bbf81c1-512c-43cc-8b46-5b947fc8210d.mp3?autoplay=1&loop=1&controls=1</p>
+<p>/uploads/audio/4bbf81c1-512c-43cc-8b46-5b947fc8210d.mp3?autoplay=0&loop=1&controls=1</p>
 <blockquote>Bức Tường - Những chuyến đi dài</blockquote>
 
 **Nếu bạn có chút máu mạo hiểm và yêu thích gần gũi với thiên nhiên, thì hãy thử đi tour hiking hoặc trekking, bạn sẽ có trải nghiệm nhớ đời.**

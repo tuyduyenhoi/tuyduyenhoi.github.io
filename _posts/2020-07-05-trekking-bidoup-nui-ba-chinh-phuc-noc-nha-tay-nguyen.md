@@ -8,7 +8,7 @@ published: true
 tags: trekking
 ---
 
-<p>/uploads/audio/0f4deee9-dd33-4ea8-a0a1-67ffccfb4217.mp3?autoplay=1&loop=1&controls=1</p>
+<p>/uploads/audio/0f4deee9-dd33-4ea8-a0a1-67ffccfb4217.mp3?autoplay=0&loop=1&controls=1</p>
 <blockquote>Nguyễn Hải Phong - Dòng thời gian</blockquote>
 
 ## Tour Trekking Bidoup - Núi Bà chinh phục nóc nhà Tây Nguyên

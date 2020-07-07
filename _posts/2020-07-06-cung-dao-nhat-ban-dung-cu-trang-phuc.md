@@ -12,7 +12,7 @@ sitemap:
     changefreq: weekly
 ---
 
-<p>/uploads/audio/ffc233f1-4e22-41cd-baf5-f9fc3b098600.mp3?autoplay=1&loop=1&controls=1</p>
+<p>/uploads/audio/ffc233f1-4e22-41cd-baf5-f9fc3b098600.mp3?autoplay=0&loop=1&controls=1</p>
 <blockquote>Alec Koff - Background Music</blockquote>
 
 ## Yumi (Cung)
