@@ -12,6 +12,9 @@ sitemap:
     changefreq: weekly
 ---
 
+<p>/uploads/audio/ffc233f1-4e22-41cd-baf5-f9fc3b098600.mp3?autoplay=1&loop=1&controls=1</p>
+<blockquote>Alec Koff - Background Music</blockquote>
+
 ## Cung tên Nhật Bản
 
 <span class="image right"><img src="{{ "/uploads/kyudo/43ca537d-a927-4b47-8326-0aa259fcb7d4.jpg" | absolute_url }}" alt="" />Ảnh: International Kyudo Federation</span>
