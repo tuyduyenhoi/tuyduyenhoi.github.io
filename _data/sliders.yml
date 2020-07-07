@@ -33,21 +33,23 @@
   bullets: false
   captions: true
   images:
-    - src: /uploads/kyudo/2d6e3cda-3bc7-4ff5-834f-a309d0ae380f.jpg
+    - src: /uploads/kyudo/c75aad1a-9830-435c-851b-945a9cd0727c.jpg
       alt: 
-    - data-src: /uploads/kyudo/0208a5fb-55fa-4a73-91f3-eecd52cb55b1.jpg
+    - data-src: /uploads/kyudo/f0fced65-4d76-4502-a679-b7e2c0f13110.jpg
       alt: 
-    - data-src: /uploads/kyudo/c75aad1a-9830-435c-851b-945a9cd0727c.jpg
-      data-src-2x: /uploads/kyudo/ca546e74-4919-4f5b-bbb9-d54a89fe69a3.jpg
+    - data-src: /uploads/kyudo/53e92432-ed6f-4f06-aa41-6b8588b80b07.jpg
+      data-src-2x: /uploads/kyudo/53e92432-ed6f-4f06-aa41-6b8588b80b07.jpg
       alt: 
-    - src: /uploads/kyudo/9c3119d8-84dc-46d8-96d3-03ed222ed3c4.jpg
-      alt: 
-    - src: /uploads/kyudo/9df9acc1-e463-47dc-a70d-c378bd0a988b.jpg
+    - src: /uploads/kyudo/c75aad1a-9830-435c-851b-945a9cd0727c.jpg
       alt: 
     - src: /uploads/kyudo/f0fced65-4d76-4502-a679-b7e2c0f13110.jpg
       alt: 
+    - src: /uploads/kyudo/53e92432-ed6f-4f06-aa41-6b8588b80b07.jpg
+      alt: 
+    - src: /uploads/kyudo/53e92432-ed6f-4f06-aa41-6b8588b80b07.jpg
+      alt: 
   settings:
-    height: 400
+    height: 450
     initialHeight:
     maxHeight:
     interval: 5000
