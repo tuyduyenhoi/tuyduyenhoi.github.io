@@ -36,21 +36,21 @@ sitemap:
 <h3>Danang Kyudo Shinnen kai 2020</h3>
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/53e92432-ed6f-4f06-aa41-6b8588b80b07.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/1d60f88b-c13a-45fa-8368-c8bf0394fba6.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/9c3119d8-84dc-46d8-96d3-03ed222ed3c4.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/39a6bf15-ac5d-4181-9cdf-7ad9b5af96c6.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/a3007da8-14cb-449c-9d8a-ec6ac01f294f.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/b7b15a50-6971-443f-86e1-f1ddd8793004.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/c75aad1a-9830-435c-851b-945a9cd0727c.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/c873fb84-98d5-47f2-9f5a-a6c61fe327b6.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/f0fced65-4d76-4502-a679-b7e2c0f13110.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/f9dca09f-57bb-41a4-8616-cc616c9989df.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/fd53b31f-ef8b-42cb-b795-c9d855fbf96f.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/280f5aa8-ad7c-4861-ba95-83f5b6ff78a7.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/2d6e3cda-3bc7-4ff5-834f-a309d0ae380f.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/7d748bd9-6ec9-4c0e-88f4-a5002a053b72.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/uploads/kyudo/0208a5fb-55fa-4a73-91f3-eecd52cb55b1.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/53e92432-ed6f-4f06-aa41-6b8588b80b07.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/1d60f88b-c13a-45fa-8368-c8bf0394fba6.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/9c3119d8-84dc-46d8-96d3-03ed222ed3c4.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/39a6bf15-ac5d-4181-9cdf-7ad9b5af96c6.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/a3007da8-14cb-449c-9d8a-ec6ac01f294f.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/b7b15a50-6971-443f-86e1-f1ddd8793004.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/c75aad1a-9830-435c-851b-945a9cd0727c.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/c873fb84-98d5-47f2-9f5a-a6c61fe327b6.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/f0fced65-4d76-4502-a679-b7e2c0f13110.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/f9dca09f-57bb-41a4-8616-cc616c9989df.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/fd53b31f-ef8b-42cb-b795-c9d855fbf96f.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="66" layout="responsive" src="{{ "/uploads/kyudo/280f5aa8-ad7c-4861-ba95-83f5b6ff78a7.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="150" layout="responsive" src="{{ "/uploads/kyudo/2d6e3cda-3bc7-4ff5-834f-a309d0ae380f.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="150" layout="responsive" src="{{ "/uploads/kyudo/7d748bd9-6ec9-4c0e-88f4-a5002a053b72.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><amp-img width="100" height="150" layout="responsive" src="{{ "/uploads/kyudo/0208a5fb-55fa-4a73-91f3-eecd52cb55b1.jpg" | absolute_url }}" alt="" /></span></div>
   </div>
 </div>
 
