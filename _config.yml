@@ -4,7 +4,7 @@ bio:                'Hãy Cứ Vui Như Mọi Ngày'
 description:        "Hãy Cứ Vui Như Mọi Ngày"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "tuyduyenhoi.github.io" # the base hostname & protocol for your site
+url: "https://tuyduyenhoi.github.io" # the base hostname & protocol for your site
 
 # Permalinks
 permalink:        pretty
