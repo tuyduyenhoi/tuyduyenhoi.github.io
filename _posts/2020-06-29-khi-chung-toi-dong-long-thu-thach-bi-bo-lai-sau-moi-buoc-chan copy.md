@@ -3,7 +3,7 @@ layout: post
 title:  "Khi chúng ta đồng lòng, thử thách bị bỏ lại sau mỗi bước chân."
 date:   2020-06-29
 excerpt: "Trà My"
-image: "tuyduyenhoi.github.io/uploads/20207/289371fb-8d01-4ff1-80a6-ff085834a5d0.jpg"
+image: "/uploads/20207/289371fb-8d01-4ff1-80a6-ff085834a5d0.jpg"
 tags: trekking giengtroi
 ---
 

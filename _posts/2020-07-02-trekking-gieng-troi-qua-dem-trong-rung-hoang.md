@@ -3,7 +3,7 @@ layout: post
 title:  "Trekking Giếng trời - Qua đêm trong rừng hoang"
 date:   2020-07-02
 excerpt: "Vô Ngã"
-image: "tuyduyenhoi.github.io/uploads/20207/20b3b520-45e7-47a8-a29b-4524549509a4.jpg"
+image: "/uploads/20207/20b3b520-45e7-47a8-a29b-4524549509a4.jpg"
 tags: trekking giengtroi
 ---
 

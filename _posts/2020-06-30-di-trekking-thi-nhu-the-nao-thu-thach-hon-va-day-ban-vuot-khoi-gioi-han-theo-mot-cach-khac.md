@@ -3,7 +3,7 @@ layout: post
 title:  "Đi Trekking thì như thế nào - thử thách hơn và đẩy bạn vượt khỏi giới hạn theo một cách khác."
 date:   2020-06-30
 excerpt: "tourradar"
-image: "tuyduyenhoi.github.io/uploads/20207/inca-trail-peru.jpg"
+image: "/uploads/20207/inca-trail-peru.jpg"
 tags: trekking
 ---
 

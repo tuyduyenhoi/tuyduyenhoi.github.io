@@ -3,7 +3,7 @@ layout: post
 title: Trekking Bidoup - Núi Bà chinh phục nóc nhà Tây Nguyên
 date: 2020-07-05
 excerpt: TuyDuyenHoi
-image: tuyduyenhoi.github.io/uploads/20207/c30ec63a-a8d9-4cce-916a-321c4f0a5f49.jpg
+image: /uploads/20207/c30ec63a-a8d9-4cce-916a-321c4f0a5f49.jpg
 published: true
 tags: trekking
 ---
