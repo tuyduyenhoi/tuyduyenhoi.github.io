@@ -3,7 +3,7 @@ layout: post
 title: Cung Đạo Nhật Bản - Câu lạc bộ Cung Đạo Nhật Bản tại Đà Nẵng
 date: 2020-07-07
 excerpt: TuyDuyenHoi
-image: tuyduyenhoi.github.io/uploads/kyudo/ea7b5564-f2a8-4b78-bd79-da98761ccaf0.jpg
+image: /uploads/kyudo/ea7b5564-f2a8-4b78-bd79-da98761ccaf0.jpg
 published: true
 tags: kyudo
 image_sliders:
