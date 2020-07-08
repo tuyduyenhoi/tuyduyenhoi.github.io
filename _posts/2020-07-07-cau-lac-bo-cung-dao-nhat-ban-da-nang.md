@@ -61,5 +61,3 @@ sitemap:
         </li>
     </ul>
 </div>
-
-Tiếp theo: **Cung Đạo Nhật Bản - Lịch sử của Cung Đạo - Phần 1**

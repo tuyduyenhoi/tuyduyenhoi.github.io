@@ -82,8 +82,6 @@ Shin Zen Bi (Chân – Thiện – Mỹ) là ba nhân tố cơ bản của Kyudo
 
 Dịch bởi: Duong Phan – Nguồn: [1](http://www.ikyf.org) SHIN-ZEN-BI
 
-Tiếp theo: **Cung Đạo Nhật Bản - Rei-Nghi lễ - Phần 4**
-
 <span class="image fit"><img src="{{ "/uploads/kyudo/bbe1acdb-a5f2-4555-b15a-3e8617d63fc1.jpg" | absolute_url }}" alt="" /></span>
 ## Chân – Thiện – Mỹ
 

@@ -17,7 +17,7 @@ sitemap:
 
 ## Nghi lễ
 
-<span class="image fit"><img src="{{ "/uploads/20207/70580e65-d5be-4e02-a998-9095743868cb.jpg" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/uploads/kyudo/70580e65-d5be-4e02-a998-9095743868cb.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>...</blockquote>
 
 Là một lẽ tự nhiên khi hình thức Kyudo trở nên khác biệt tùy vào nhu cầu của từng thế hệ. Thời  xưa, phái Ogasawara được đánh giá cao về nghi thức và phái Heki lại được coi trọng bởi kĩ thuật bắn.
@@ -116,8 +116,6 @@ Nghi lễ bắn cung không chỉ phản ánh các giá trị truyền thống m
 </div>
 
 Dịch bởi: Nhung Nguyen – Nguồn: [1](http://www.ikyf.org) SHIN-ZEN-BI
-
-Tiếp theo: **Cung Đạo Nhật Bản - Rei-Nghi lễ - Phần 5**
 
 <span class="image fit"><img src="{{ "/uploads/kyudo/bbe1acdb-a5f2-4555-b15a-3e8617d63fc1.jpg" | absolute_url }}" alt="" /></span>
 ## Chân – Thiện – Mỹ

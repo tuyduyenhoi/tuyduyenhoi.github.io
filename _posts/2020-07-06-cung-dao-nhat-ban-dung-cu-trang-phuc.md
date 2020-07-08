@@ -55,8 +55,6 @@ Khi bắn cung trong trang phục Wafuku hoặc Kyudogi (màu trắng là thích
 
 Dịch bởi: Ai Linh Manh – Nguồn: [1](http://www.ikyf.org) Equipment-Clothing
 
-Tiếp theo: **Cung Đạo Nhật Bản - Chân-Thiện-Mỹ - Phần 3**
-
 <span class="image fit"><img src="{{ "/uploads/kyudo/bbe1acdb-a5f2-4555-b15a-3e8617d63fc1.jpg" | absolute_url }}" alt="" /></span>
 ## Chân – Thiện – Mỹ
 
