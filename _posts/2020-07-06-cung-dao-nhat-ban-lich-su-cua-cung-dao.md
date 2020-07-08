@@ -7,7 +7,7 @@ image: tuyduyenhoi.github.io/uploads/kyudo/e57a568a-2451-469b-9582-592796ef08b2.
 published: true
 tags: kyudo
 sitemap:
-    priority: 0.9
+    priority: 1
     lastmod: 2020-07-06
     changefreq: weekly
 ---

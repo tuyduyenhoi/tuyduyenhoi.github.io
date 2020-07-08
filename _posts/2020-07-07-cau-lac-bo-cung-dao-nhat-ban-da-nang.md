@@ -11,7 +11,7 @@ image_sliders:
   - slider2
   - slider3
 sitemap:
-    priority: 1
+    priority: 0.1
     lastmod: 2020-07-07
     changefreq: weekly
 ---
