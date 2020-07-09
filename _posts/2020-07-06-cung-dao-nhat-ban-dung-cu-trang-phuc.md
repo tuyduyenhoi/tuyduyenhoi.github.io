@@ -55,7 +55,7 @@ Khi bắn cung trong trang phục Wafuku hoặc Kyudogi (màu trắng là thích
 
 Dịch bởi: Ai Linh Manh – Nguồn: [1](http://www.ikyf.org) Equipment-Clothing
 
-<span class="image fit"><img src="{{ "/uploads/kyudo/bbe1acdb-a5f2-4555-b15a-3e8617d63fc1.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="100" height="44" layout="responsive" src="{{ "/uploads/kyudo/bbe1acdb-a5f2-4555-b15a-3e8617d63fc1.jpg" | absolute_url }}" alt="" /></span>
 ## Chân – Thiện – Mỹ
 
 ** <a target="_blank" href="https://www.facebook.com/groups/1204167899593509" > Câu lạc bộ Cung Đạo Nhật Bản Đà Nẵng </a>** được thành lập vào ngày 2016-07-01 với mục đích giới thiệu nét văn hoá độc đáo và thiền khá phổ biến trong đời sống tinh thần người Nhật. CLB sẽ dẫn dắt các bạn từng bước làm quen với nghệ thuật bắn cung Nhật Bản, ngoài việc tiếp cận kỹ thuật bắn cung các bạn còn được hướng dẫn các nghi thức mang tính lễ nghi đậm triết lý thiền trong võ đạo Nhật Bản.
@@ -69,7 +69,7 @@ Dịch bởi: Ai Linh Manh – Nguồn: [1](http://www.ikyf.org) Equipment-Cloth
 - 11h30 – 12h dọn dẹp
 
 <h2>Kyudo</h2>
-<div class="embed-youtube">
+<div>
     <ul>
         <li>
             {% include youtubePlayerList.html id="PLBJlO6-mjR68TJZadHviiV-TO1elx7nT1" %}

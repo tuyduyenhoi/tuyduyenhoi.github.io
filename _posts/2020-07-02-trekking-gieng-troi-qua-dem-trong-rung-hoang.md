@@ -28,19 +28,19 @@ Trong bài thơ "Tiếng Hát Con Tàu" của Chế Lan Viên, có đoạn : "Kh
 
 Chỉ vì lạ, nên mình không thể bỏ qua nó, và đây là lí do mình viết, viết chỉ để thỏa cái lạ, viết chỉ để ghi dấu lại cái điều mà 1 thằng đàn ông 33 tuổi như mình mới lần đầu trải nghiệm, dù chỉ với vốn từ nghèo nàn mà mình tích cóp được bằng sự cảm nhận, bằng ánh mắt, bằng trái tim và trên hết là bằng cả tâm hồn. Ai đó đã nói : cái gì lạ cũng hay, và rồi có cái gì đó lạ hơn sẽ hay hơn, tuy nhiên, với mình, cái lạ của Giếng Trời sẽ theo mình suốt cuộc đời. 
 
-<span class="image fit"><img src="{{ "/uploads/20207/149f3f05-af28-4aa8-ae54-f47c8f1ee162.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/149f3f05-af28-4aa8-ae54-f47c8f1ee162.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Ánh lửa : sự ấm áp, tình "Người"</blockquote>
 
 Qua Giếng Trời, mình có thể cảm nhận sâu sắc hơn về thiên nhiên, về con người , và nhất là sự dẻo dai, khả năng chịu đựng của con người. Với việc cuốc bộ đường đồi núi hơn 10 km đã là 1 minh chứng. Cảm giác càng thăng hoa hơn khi mình được đặt chân đến Giếng Trời, đúng là Giếng Trời, đúng là ông Trời không phụ lòng người, khung cảnh hoang sơ, chỉ đâu đó tiếng suối chảy róc rách, và đâu đó trên khoảng trời xanh vài chú chim lạ cũng đang cảm nhận, đan xen cảm xúc để hòa quyện vào nhau. 
 
 Sự thăng hoa càng được nâng lên ở 1 tầm cao hơn khi màn đêm buông xuống, khi mà ông mặt trời đã quen với sự có mặt của con người ở Giếng Trời, khi mà Giếng Trời tạm chia tay với ông mặt trời thì ánh lửa bập bùng được thắp sáng, và đây chính là cái "hồn" của chuyến đi, là ánh sáng của sự tĩnh lặng. Mọi người cùng ôm lấy cái "hồn" ấy để cảm nhận, để thả lòng với thiên nhiên, với đất trời, với tiếng suối chảy trong màn đêm thanh vắng, tất cả hòa vào nhau để tạo nên chữ "Người" đúng với nghĩa của nó. Và rồi, lời ca tiếng hát được cất lên, tất cả cùng vui, cùng cảm nhận, cùng sẻ chia, cùng ăn,cùng ngủ,cùng tắm và cùng cười cho cái sự "lạ" của Giếng Trời.
 
-<span class="image fit"><img src="{{ "/uploads/20207/01193614-5f95-4068-9fdf-efead59c4623.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/01193614-5f95-4068-9fdf-efead59c4623.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Bếp lửa : sự no ấm, đủ đầy và đây cũng là minh chứng cho sự an toàn của chuyến đi</blockquote>
 
 Trời càng về khuya, Giếng Trời càng lộ rõ sự khác biệt, khác biệt giữa cái thực và hư, giữa cái đời thường bon chen với cái thanh tịnh của Mẹ thiên nhiên. Và cũng là lúc Giếng Trời đưa con người vào giấc ngủ bằng tiếng suối trong trẻo của mình, dữ dội nhưng hiền hòa, ồn ào nhưng sâu sắc. Tiếng côn trùng kêu giữa màn đêm thanh vắng, cái se se lạnh giữa mùa hạ, cũng đã được Giếng Trời và Mẹ thiên nhiên tô vẽ thêm để vỗ về giấc ngủ. Và rồi, ông mặt trời cũng chịu quay lại với Giếng Trời bằng ánh sáng nhẹ nhàng lúc bình minh. Sự có mặt này, đã đánh thức tất cả mọi người sau 1 giấc ngủ sâu để chuẩn bị cho cuộc hành trình quay lại "thế giới ồn ào" đang chờ đón mọi người phía trước. Tạm biệt Giếng Trời, tạm biệt "cái lần đầu của nửa đời người".
 
-<span class="image fit"><img src="{{ "/uploads/20207/9f678e16-844f-4168-88d9-572496284e2a.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/9f678e16-844f-4168-88d9-572496284e2a.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Bông hoa lạ : thiên nhiên, sức sống.</blockquote>
 
 "...Tôi yêu những gì đến tự nhiên
@@ -70,5 +70,5 @@ As more midnight , Heaven's Well has increasingly apparent difference, the diffe
 ....the honest words
 .... And I love you, ' Heaven's Well '..."
 
-<span class="image fit"><img src="{{ "/uploads/20207/edd581f9-69fb-492b-9dc9-8fdd67dc4742.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/edd581f9-69fb-492b-9dc9-8fdd67dc4742.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Vô Ngã - Người thầm lặng</blockquote>

@@ -67,9 +67,9 @@ sitemap:
 </div>
 Trong chuyến hành trình khám phá cao nguyên Lang Biang, du khách đừng quên chinh phục Bidoup – đỉnh núi được xem là cao nhất tỉnh Lâm Đồng và là “nóc nhà” của Tây Nguyên. Khám phá hệ thực vật vườn quốc gia, khám phá mùa lá phong đỏ Tuyến đường Bidoup, vẻ đẹp tiềm ẩn của tạo hóa. Đã bao giờ bạn nghĩ rằng mình sẽ bị đánh thức bởi tiếng chim rừng hót vào buổi sáng tinh mơ? thấy sóc, heo rừng hoặc gà rừng chạy lăng quăng tìm thức ăn trong tự nhiên? Nếu chưa thì chuyến hành trình trekking đến đỉnh núi được xem là cao nhất cao nguyên Lâm Viên với độ cao 2.287m sẽ là lựa chọn thích hợp với bạn. Cuộc hành trình bắt đầu băng qua các tán rừng thông, qua các con sông con suối là nơi bắt nguồn của con sông Đa Nhim nối liền tỉnh Lâm Đồng và Ninh Thuận, và đến với rừng nguyên sinh nơi có hệ sinh thái đặc trưng và đa dạng, hệ động thực vật đặc hữu, quý hiếm như: Mi Langbiang, Sẻ thông họng vàng, Vượn, Vọoc, Ếch ma cà rồng, cây Pơ Mu đại thụ hơn 1.300 tuổi, đỗ quyên Langbiang, và các loài lan…
 
-<span class="image fit"><img src="{{ "/uploads/20207/d41afd9d-9bd0-4ab2-b64c-890e8229b141.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/d41afd9d-9bd0-4ab2-b64c-890e8229b141.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Tuyến đường Bidoup, vẻ đẹp tiềm ẩn của tạo hóa.</blockquote>
-<span class="image fit"><img src="{{ "/uploads/20207/2151be44-749a-43fa-86cf-9c034acb79db.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/2151be44-749a-43fa-86cf-9c034acb79db.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Tuyến đường Bidoup, vẻ đẹp tiềm ẩn của tạo hóa.</blockquote>
 
 ### Các điểm dừng chân, khám phá
@@ -89,9 +89,9 @@ Ngày 2: Bãi cắm trại - Trạm Kiểm Lâm Bidoup - đường 723: 17 km (1
 -  Hoạt động : đi bộ trong rừng, xem chim, cắm trại
 (xe ô tô đưa đón khách tại khách sạn).
 
-<span class="image fit"><img src="{{ "/uploads/20207/4db00b30-6a99-4f34-8908-7dfa0c9555c2.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/4db00b30-6a99-4f34-8908-7dfa0c9555c2.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Trải nghiệm Trekking Bidoup</blockquote>
-<span class="image fit"><img src="{{ "/uploads/20207/d930681a-cfb0-4f4e-ad1d-ebfc92d9e032.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/d930681a-cfb0-4f4e-ad1d-ebfc92d9e032.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Trải nghiệm Trekking Bidoup</blockquote>
 
 <h2>Bao gồm</h2>
@@ -123,7 +123,7 @@ Ngày 2: Bãi cắm trại - Trạm Kiểm Lâm Bidoup - đường 723: 17 km (1
 - Các dụng cụ khác (cho thuê có tính phụ phí): ống nhòm, võng, mền, đèn pin đội đầu, vớ chống vắt. Vui lòng thông tin trước khi du khách có nhu cầu đặt tour
 
 <h2>Trải nghiệm Trekking Bidoup</h2>
-<div class="embed-youtube">
+<div>
     <ul>
         <li>
             {% include youtubePlayer.html id="Tj4c6HaQ53Q" %}

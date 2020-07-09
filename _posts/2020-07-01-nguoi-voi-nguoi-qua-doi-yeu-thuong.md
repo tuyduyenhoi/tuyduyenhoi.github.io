@@ -34,14 +34,14 @@ Lần này, tôi không viết về "chiến tích" bản thân. Tôi đang vi�
 
 Còn tiếp....(Phần 2: Khi chúng ta đồng lòng, thử thách bị bỏ lại sau mỗi bước chân)
 
-<span class="image fit"><img src="{{ "/uploads/20207/9c27b09e-bbbf-49aa-8a9f-f43bf50b1252.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/9c27b09e-bbbf-49aa-8a9f-f43bf50b1252.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Những con người giàu nghị lực</blockquote>
 
-<span class="image fit"><img src="{{ "/uploads/20207/a5510fcc-b11b-462b-ad52-70e06daa3e6e.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/a5510fcc-b11b-462b-ad52-70e06daa3e6e.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Ốc đá rừng</blockquote>
 
-<span class="image fit"><img src="{{ "/uploads/20207/38957bd8-173e-47f9-88a3-fbda6c752bbd.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/38957bd8-173e-47f9-88a3-fbda6c752bbd.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Các Cô gái vùng cao</blockquote>
 
-<span class="image fit"><img src="{{ "/uploads/20207/93f029cb-1722-44c1-8f41-4dc367b7a96c.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/93f029cb-1722-44c1-8f41-4dc367b7a96c.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Chị Em thân từ mới hôm qua</blockquote>

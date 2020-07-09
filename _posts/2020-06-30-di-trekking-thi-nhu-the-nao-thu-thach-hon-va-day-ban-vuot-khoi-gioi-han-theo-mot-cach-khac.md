@@ -44,7 +44,7 @@ Còn trẻ, phải đi những Cung Trekking nào trên thế giới
 
 Có hàng chục cung treks bạn đã từng nghe qua, nhưng sẽ không tưởng tượng được chuyện gì đang xảy ra. Đây là những cung trekking đẹp nhất thế giới nên đi:
 
-<span class="image fit"><img src="{{ "/uploads/20207/inca-trail-peru.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/inca-trail-peru.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Inca Trail, Peru</blockquote>
 
 Cung đường cổ xưa đã nhanh chóng trở thành cung treks nổi tiếng nhất trên thế giới. Xây dựng bởi bàn tay của người Incas, cung đường từ thung lũng Sacred Valley và thẳng tiến tới Machu Picchu, cao hơn 2,000m so với mặt nước biển.
@@ -52,7 +52,7 @@ Từ trên đỉnh ngắm nhìn di tích của đế chế Inca thực sự là 
 - Khoảng cách: 43 kilometres
 - Thời gian: Từ 3 đến 4 ngày (Có nhiều lựa chọn về thời gian nhưng hầu hết là 4 ngày)
 
-<span class="image fit"><img src="{{ "/uploads/20207/mount-kilimanjaro-tanzania.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/mount-kilimanjaro-tanzania.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Leo Kilimanjaro, Tanzania</blockquote>
 
 Ở độ cao 5,895 mét, Kilimanjaro là đỉnh núi cao nhất Châu Phi và cũng là một trong những cung trekking nổi bật của thế giới. Đường đi qua nhiều hệ sinh thái khác nhau, từ tuyết phủ đến sa mạc và rừng nhiệt đới.
@@ -60,7 +60,7 @@ Hãy nhớ là cung trek này khá khó, và 50% không thể hoàn thành summi
 - Khoảng cách: 51 – 72 kilometres (Tùy vào cung đường bạn chọn)
 - Thời gian: Từ 5 đến 8 ngày
 
-<span class="image fit"><img src="{{ "/uploads/20207/horseshoe-bend-arizona-usa.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/horseshoe-bend-arizona-usa.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>John Muir Trail, California, USA</blockquote>
 
 Một trong những cung đường nổi tiếng nhất ở Mỹ, cung John Muir hoàn toàn “vào trong hoang dã”. Đi qua rất nhiều địa danh từ công viên quốc gia Kings Canyon và Sequoia, một trong những kỳ quan thiên nhiên hùng vĩ ở Mỹ. 
@@ -69,7 +69,7 @@ Hãy can đảm vì cung đường dài và hãy chuận bị giấy phép (perm
 - Khoảng cách: 340 kilometres
 - Thời gian: 3 tuần nếu bạn hoàn thành toàn bộ cung
 
-<span class="image fit"><img src="{{ "/uploads/20207/Torres-del-Paine-Lookout-Chile.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/Torres-del-Paine-Lookout-Chile.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Torres del Paine Lookout, Chile</blockquote>
 
 <blockquote>W Circuit – Torres del Paine, Chile</blockquote>
@@ -79,7 +79,7 @@ Sông băng, đồng bằng và thiên nhiên thì tuyệt vời.
 - Khoảng cách: 100 kilometres
 - Thời gian: 4 đến 6 ngày tùy theo đường
 
-<span class="image fit"><img src="{{ "/uploads/20207/everest-base-camp-nepal.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/everest-base-camp-nepal.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Everest Base Camp, Nepal</blockquote>
 
 Là một niềm kiêu hãnh của những nhà leo núi, Đỉnh Everest là một trong những cung trekking tất cả các nhà phiêu lưu muốn đi trong cuộc đời.

@@ -57,14 +57,14 @@ Aaaaaaa! Giếng Trời, giếng của trời! Chúng tôi đã đến thiên đ
 
 Tiếp theo.... (Phần 3: Bữa tiệc hoành tráng giữa đại ngàn)
 
-<span class="image fit"><img src="{{ "/uploads/20207/b665b1ee-3be9-42cb-a291-acba0277ba73.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/b665b1ee-3be9-42cb-a291-acba0277ba73.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Rừng hoang đầy thú dữ</blockquote>
 
-<span class="image fit"><img src="{{ "/uploads/20207/ec4f875a-a4b6-49f1-9537-341ef518d8c6.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/ec4f875a-a4b6-49f1-9537-341ef518d8c6.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Đó là tôi, chính tôi! </blockquote>
 
-<span class="image fit"><img src="{{ "/uploads/20207/9f6bdfb4-f935-472c-ac7d-0a79a2bede17.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/9f6bdfb4-f935-472c-ac7d-0a79a2bede17.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Có những tháng ngày như thế</blockquote>
 
-<span class="image fit"><img src="{{ "/uploads/20207/a81ff066-1ef3-4d2b-919e-20b58b09e3d4.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/a81ff066-1ef3-4d2b-919e-20b58b09e3d4.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Đoạn này đang tính hạ trại nghỉ đến mai :D</blockquote>

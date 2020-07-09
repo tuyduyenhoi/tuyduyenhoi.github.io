@@ -48,7 +48,7 @@ sitemap:
 <span class="image fit"><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/ba-vi-trekking1.jpg" | absolute_url }}" alt="" /></span>
 
 ## Background Music
-<div class="embed-youtube">
+<div>
     {% include youtubePlayerList.html id="PLIEBeDbBRv_nxbcGQzGUSDtJ_0EJAyciJ" %}
 </div>
 <blockquote>Corporate Background Music For Business, Presentation & Corporation</blockquote>

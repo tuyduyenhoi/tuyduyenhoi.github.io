@@ -22,7 +22,7 @@ Hiểu sự khác nhau giữa “hiking” và “trekking” để giúp bạn 
 
 Thế sự khác nhau là gì? Hãy đọc thêm nhé.
 
-<span class="image fit"><img src="{{ "/uploads/20207/Trolltunga-Norway.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/Trolltunga-Norway.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Hiking ngắn ngày đến Trolltunga, Norway</blockquote>
 
 **Hiking là gì**
@@ -48,7 +48,7 @@ Tùy vào từng địa điểm, thi thoảng bạn cũng phải mang theo lều
 Cung Hiking trên thế giới phải thử
 Hầu như ai cũng có những địa điểm ưa thích để đi hiking. Nhưng có lẽ những cung hiking nổi tiếng trên thế giới nên thử
 
-<span class="image fit"><img src="{{ "/uploads/20207/Tu+vien+Tigers+Nest+Bhutan.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/Tu+vien+Tigers+Nest+Bhutan.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Tiger’s Nest, Bhutan</blockquote>
 
 Hầu hết mọi người đi du lịch đến Bhutan đều thử hike leo dọc vách núi để thăm quan tu viện phật giáo Tigers Nest.
@@ -57,7 +57,7 @@ Nằm cheo leo ở độ cao 900m so với mặt đất, cung đường leo này
 - Khoảng cách: 3.25 kilometres (Lên và xuống)
 - Thời gian: Mất hai tiếng để lên đến đỉnh, tuy nhiên cứ thong thả từ 5-7 iếng cho toàn bộ hành trình. 
 
-<span class="image fit"><img src="{{ "/uploads/20207/tongariro-alpine-crossing.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/tongariro-alpine-crossing.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Tongariro Alpine Crossing, New Zealand</blockquote>
 
 Một trong những cung hiking ngắn ngày đẹp nhất ở New Zealand, địa hình núi lửa độc đáo và phong cảnh đẹp tuyệt vời. Nếu bạn muốn một cung ngắn ngày mà phong cảnh thay đổi liên tục, đây là lựa chọn hoàn hảo.
@@ -72,14 +72,14 @@ Vừa đẹp và tạo cảm giác hồi hộp, cung hike này vừa không nh�
 - Khoảng cách: 23 kilometres (hai chiều)
 - Thời gian: Từ 8 đến 10 tiếng
 
-<span class="image fit"><img src="{{ "/uploads/20207/Torres-del-Paine-+Lookout-Chile.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/Torres-del-Paine-+Lookout-Chile.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Torres del Paine Lookout, Chile</blockquote>
 
 Cung hiking này sẽ khiến bạn muốn leo lại lần nữa. Điểm nổi bật của hành trình này là tòa núi granite Andean sừng sững trước mặt. Và rất nhiều cơ hội để chụp hình sống ảo.
 - Khoảng cách: 19 kilometres (Hai chiều)
 - Thời gian: Từ bốn đến sáu tiếng, tuy nhiên, cũng khá phụ thuộc vào thời tiết thay đổi
 
-<span class="image fit"><img src="{{ "/uploads/20207/faulhorn-switzerlandmartin.jpg" | absolute_url }}" alt="" /></span>
+<span><amp-img width="1260" height="882" layout="responsive" src="{{ "/uploads/20207/faulhorn-switzerlandmartin.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Faulhornweg Bernese, Switzerland</blockquote>
 
 Một trong những địa điểm hiking kinh điển của thế giới, cung Faulhornweg hike đưa bạn tới những đỉnh núi khá nổi bật trên thế giới. Cung đường kịch tính, với những đồng cỏ tuyệt đẹp, những bông hoa dại trên núi cao, và dĩ nhiên, là Faulhorn ở độ cao 2,680m trên mực nước biển.
