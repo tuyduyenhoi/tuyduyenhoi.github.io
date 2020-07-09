@@ -5,6 +5,10 @@ date:   2020-07-02
 excerpt: "Vô Ngã"
 image: "/uploads/20207/20b3b520-45e7-47a8-a29b-4524549509a4.jpg"
 tags: trekking giengtroi
+sitemap:
+    priority: 0.7
+    lastmod: 2020-07-02
+    changefreq: weekly
 ---
 
 <p>/uploads/audio/d1f86018-bd0c-4c3b-93a8-7512d8516c72.mp3?autoplay=0&loop=1&controls=1</p>

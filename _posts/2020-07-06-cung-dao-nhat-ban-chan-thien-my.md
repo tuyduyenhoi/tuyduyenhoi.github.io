@@ -7,7 +7,7 @@ image: /uploads/kyudo/392b9db8-a129-4ffa-ad0c-7b581c43a99f.jpg
 published: true
 tags: kyudo
 sitemap:
-    priority: 0.8
+    priority: 0.7
     lastmod: 2020-07-06
     changefreq: weekly
 ---

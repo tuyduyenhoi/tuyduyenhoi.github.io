@@ -6,6 +6,10 @@ excerpt: TuyDuyenHoi
 image: /uploads/20207/c30ec63a-a8d9-4cce-916a-321c4f0a5f49.jpg
 published: true
 tags: trekking
+sitemap:
+    priority: 0.8
+    lastmod: 2020-07-05
+    changefreq: weekly
 ---
 
 <p>/uploads/audio/0f4deee9-dd33-4ea8-a0a1-67ffccfb4217.mp3?autoplay=0&loop=1&controls=1</p>

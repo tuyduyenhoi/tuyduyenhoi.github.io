@@ -5,6 +5,10 @@ date:   2020-07-01
 excerpt: "Trà My"
 image: "/uploads/20207/9c27b09e-bbbf-49aa-8a9f-f43bf50b1252.jpg"
 tags: trekking giengtroi
+sitemap:
+    priority: 0.7
+    lastmod: 2020-07-01
+    changefreq: weekly
 ---
 
 <p>/uploads/audio/c6fceb4a-544c-4180-b1a2-99fbbbf9d203.mp3?autoplay=0&loop=1&controls=1</p>

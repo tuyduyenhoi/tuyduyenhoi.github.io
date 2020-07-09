@@ -7,7 +7,7 @@ image: /uploads/kyudo/e57a568a-2451-469b-9582-592796ef08b2.jpg
 published: true
 tags: kyudo
 sitemap:
-    priority: 1
+    priority: 0.7
     lastmod: 2020-07-06
     changefreq: weekly
 ---

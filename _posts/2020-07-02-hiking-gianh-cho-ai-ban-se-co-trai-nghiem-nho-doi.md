@@ -5,6 +5,10 @@ date:   2020-07-02
 excerpt: "tourradar"
 image: "/uploads/20207/Trolltunga-Norway.jpg"
 tags: hiking
+sitemap:
+    priority: 0.7
+    lastmod: 2020-07-02
+    changefreq: weekly
 ---
 
 <p>/uploads/audio/cbb089b4-cc5c-466e-882f-a2ed7118cccf.mp3?autoplay=0&loop=1&controls=1</p>
