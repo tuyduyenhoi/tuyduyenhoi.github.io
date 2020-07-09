@@ -1,7 +1,7 @@
 ---
 layout: null
 title: TuyDuyenHoi - Dấu chân
-description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+description: Tuy Duyen Hoi
 image_sliders:
   - slider1
   - slider2
@@ -79,7 +79,7 @@ sitemap:
   										<span class="date">{{ post.date | date_to_string }}</span>
   										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
   									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><amp-img width="1260" height="630" layout="responsive" src="{{ post.image | absolute_url }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
   										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
@@ -114,7 +114,7 @@ sitemap:
                 <ul class="actions">
                   <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
 				</ul>
-				<div class="embed-youtube">
+				<div>
 					<!--Trekking the gioi PLKDzMWH6STfl-jPEEvjV2aIfgnDhd42Hh -->
 					{% include youtubePlayerList.html id="PLBJlO6-mjR69mjVF5PDroug9mtpXhz5uW" %}
 				</div>
