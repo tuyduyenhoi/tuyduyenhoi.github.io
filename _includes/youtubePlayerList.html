@@ -1,8 +1,7 @@
-<amp-iframe src="https://www.youtube.com/embed/videoseries?list={{ include.id }}" 
-    width="1260" 
-    height="882"
-    frameborder="0" 
-    allowfullscreen
-    layout="responsive"
-    sandbox="allow-scripts allow-same-origin">
+<amp-iframe width = "600"
+   height = "400" layout = "responsive"
+   sandbox = "allow-scripts allow-same-origin allow-popups"
+   frameborder = "0"
+   src = "https://www.youtube.com/embed/videoseries?list={{ include.id }}">
+   <amp-img layout = "fill" src = "{{ "/images/restriction_amp_iframe.jpg" | absolute_url }}" placeholder></amp-img>
 </amp-iframe>
