@@ -20,7 +20,7 @@ Hoa đỗ quyên ở đây có đầy đủ màu từ trắng, trắng pha hồn
 <span><amp-img width="480" height="360" layout="responsive" src="{{ "/uploads/20207/4a664d1b-9140-40dc-91f3-792b1fd31330.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Vương Quốc Đỗ Quyên Kỳ Bí</blockquote>
 
-Năm 2018, Hội Bảo vệ thiên nhiên và môi trường Việt Nam có quyết định công nhận 235 cây đỗ quyên trên đỉnh K’lang là Cây di sản Việt Nam. Vào tháng hai trở đi, hoa đỗ quyên nở dày đặc trên các triền núi tạo ra một hình ảnh vô cùng đẹp mắt, có sự "hoán đổi" cảnh sắc đầy ngoạn mục như trong phim điện ảnh giữa các trảng rừng với nhau. Khi đứng giữa rừng đỗ quyên đúng thời điểm hoa trổ ngào ngạt, bạn sẽ có cảm giác rằng đó là một tấm áo thổ cẩm của người Cơ Tu, được dệt đan vô cùng tỉ mẩn với hàng ngàn chi tiết hoa văn, màu sắc sặc sỡ...
+Năm 2018, Hội Bảo vệ thiên nhiên và môi trường Việt Nam có quyết định công nhận 235 cây đỗ quyên trên đỉnh K’lang là Cây di sản Việt Nam.
 
 **Nhân Duyên:**<br/>
 Đã được nghe và đọc rất nhiều báo viết về quần thể rừng nguyên sinh cổ thụ có rất nhiều hoa Đỗ Quyên này trên khu vực núi ARung này, nhưng việc nghiêm túc suy nghĩ tới việc thực hiện một chuyến đi để được tận mắt chứng kiến và cảm nhận thì tôi chưa nghĩ đến, ít nhất là ngay tại thời điểm chuẩn bị chinh phục đỉnh núi.
