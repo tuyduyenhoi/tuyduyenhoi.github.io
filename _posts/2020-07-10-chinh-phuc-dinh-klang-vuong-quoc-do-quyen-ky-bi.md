@@ -14,8 +14,7 @@ sitemap:
     changefreq: weekly
 ---
 
-Huyện Tây Giang cách TP Đà Nẵng, TP Hội An từ 100-130 km. Để đến được khu rừng đỗ quyên, từ trung tâm huyện có thể di chuyển bằng ô tô, xe máy đến gần bìa rừng rồi đi bộ xuyên rừng vài tiếng đồng hồ. Khu rừng đỗ quyên là nơi ít có dấu chân người nên rêu phủ khắp nơi. Rêu làm cho khu rừng thêm kỳ bí và cũng chính màu xanh của rêu tạo ra vẻ đẹp kỳ dị, riêng có cho cánh rừng này. Rêu ở khắp nơi, từ tầng lá mục dày dưới chân, từ gốc cây đỗ quyên đến tận những cành đỗ quyên mỏng manh vươn về phía nắng. Rộng khoảng 60 ha, nằm ở độ cao hơn 2.000 m so với mực nước biển, khu rừng đỗ quyên được phát hiện ở xã Tr'Hy vào năm 2016 đã gây kinh ngạc đối với nhiều người. Sự xuất hiện của loài đỗ quyên, vốn là “đặc sản” của Sa Pa (Lào Cai) hay Đà Lạt (Lâm Đồng)… giữa cánh rừng nguyên sinh ở vùng cao Tây Giang là một bất ngờ. Ngay cả người dân bản địa cũng ít khi đặt chân đến cánh rừng này.
-Hoa đỗ quyên ở đây có đầy đủ màu từ trắng, trắng pha hồng, tím, đỏ.
+Huyện Tây Giang cách TP Đà Nẵng, TP Hội An từ 100-130 km. Khu rừng đỗ quyên là nơi ít có dấu chân người nên rêu phủ khắp nơi. Rộng khoảng 60 ha, nằm ở độ cao hơn 2.000 m so với mực nước biển, khu rừng đỗ quyên được phát hiện ở xã Tr'Hy vào năm 2016 đã gây kinh ngạc đối với nhiều người.
 
 <span><amp-img width="480" height="360" layout="responsive" src="{{ "/uploads/20207/4a664d1b-9140-40dc-91f3-792b1fd31330.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Vương Quốc Đỗ Quyên Kỳ Bí</blockquote>
