@@ -4,6 +4,7 @@ title: Cung Đạo Nhật Bản - Dụng cụ, Trang phục - Phần 2
 date: 2020-07-06
 excerpt: TuyDuyenHoi
 image: /uploads/kyudo/db0a850c-b48f-4ef4-ab3a-65b2f6e1bfec.jpg
+image_small: /uploads/kyudo/db0a850c-b48f-4ef4-ab3a-65b2f6e1bfec.jpg
 published: true
 tags: kyudo
 sitemap:

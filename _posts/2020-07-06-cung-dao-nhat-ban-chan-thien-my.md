@@ -4,6 +4,7 @@ title: Cung Đạo Nhật Bản - Chân-Thiện-Mỹ - Phần 3
 date: 2020-07-06
 excerpt: TuyDuyenHoi
 image: /uploads/kyudo/392b9db8-a129-4ffa-ad0c-7b581c43a99f.jpg
+image_small: /uploads/kyudo/392b9db8-a129-4ffa-ad0c-7b581c43a99f.jpg
 published: true
 tags: kyudo
 sitemap:

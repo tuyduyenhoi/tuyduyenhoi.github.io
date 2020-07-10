@@ -4,6 +4,7 @@ title: Cung Đạo Nhật Bản - Lịch sử của Cung Đạo - Phần 1
 date: 2020-07-06
 excerpt: TuyDuyenHoi
 image: /uploads/kyudo/e57a568a-2451-469b-9582-592796ef08b2.jpg
+image_small: /uploads/kyudo/e57a568a-2451-469b-9582-592796ef08b2_small.jpg
 published: true
 tags: kyudo
 sitemap:
