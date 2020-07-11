@@ -4,7 +4,7 @@ title:  "Những ngôi làng trong rừng già - Aur, làng của thần rừng"
 date:   2020-07-03
 excerpt: "THÀNH CÔNG - ALĂNG NGƯỚC"
 image: "/uploads/20207/74b9c115-93d1-4d5e-b3d8-8af384e301b3.jpg"
-tags: hiking
+tags: hiking Aur
 sitemap:
     priority: 0.8
     lastmod: 2020-07-03

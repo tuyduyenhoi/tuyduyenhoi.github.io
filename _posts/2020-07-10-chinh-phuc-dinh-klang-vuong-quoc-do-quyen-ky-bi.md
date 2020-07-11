@@ -7,7 +7,7 @@ excerpt: TuyDuyenHoi
 image: /uploads/20207/7a0a355b-e334-4c67-ba6c-c24b198e1ae9.jpg
 image_small: /uploads/20207/7a0a355b-e334-4c67-ba6c-c24b198e1ae9_small.jpg
 published: true
-tags: K'Lang
+tags: trekking K'Lang 
 sitemap:
     priority: 0.8
     lastmod: 2020-07-10
