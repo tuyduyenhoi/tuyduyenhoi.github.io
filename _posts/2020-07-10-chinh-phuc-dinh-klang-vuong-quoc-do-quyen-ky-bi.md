@@ -3,7 +3,7 @@ layout: post
 url: 
 title: Chinh Phục Đỉnh K'Lang - Vương Quốc Đỗ Quyên Kỳ Bí (Phần I)
 date: 2020-07-10
-excerpt: TuyDuyenHoi
+excerpt: Tuấn Nấm
 image: /uploads/20207/7a0a355b-e334-4c67-ba6c-c24b198e1ae9.jpg
 image_small: /uploads/20207/7a0a355b-e334-4c67-ba6c-c24b198e1ae9_small.jpg
 published: true
