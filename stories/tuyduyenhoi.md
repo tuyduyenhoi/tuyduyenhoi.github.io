@@ -50,7 +50,7 @@ pages:
       text: Linh Lena!
  - page-number: 7
    layout: thirds
-   top: <h2>Đây là tui, chủ thớt đây, có ý kiến gì không, không thì tắm tiếp, hãy như tui...</h2>
+   top: <h2>Đây là tui, Chủ thớt đây, có ý kiến gì không, không thì mồi tiếp, hãy như tui...</h2>
    background: /uploads/stories/0edfd46f-4195-4eeb-9dd5-154e96038022.jpg
    cta:
       link: https://www.facebook.com/le.manhdiem
