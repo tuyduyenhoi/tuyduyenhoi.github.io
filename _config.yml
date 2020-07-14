@@ -71,6 +71,9 @@ tag_feed_layout: tagfeed
 tag_feed_dir: tag
 languages: [vn, en]
 
+# Google Analytics
+# analytics_id: "UA-171744191-1"
+
 jekyll-mentions:
     base_url: https://github.com
 
