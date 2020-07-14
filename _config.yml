@@ -71,6 +71,10 @@ tag_feed_layout: tagfeed
 tag_feed_dir: tag
 languages: [vn, en]
 
+collections:
+  stories:
+    output: true
+
 # Google Analytics
 # analytics_id: "UA-171744191-1"
 
