@@ -10,7 +10,7 @@
     "components": [
       {
         "type": "heading",
-        "text": "More Stories by Tom Critchlow"
+        "text": "More Stories by TuyDuyenHoi"
       },
       {% for story in site.stories %}
       {
@@ -43,8 +43,8 @@
         "type": "cta-link",
         "links": [
           {
-            "text": "@tomcritchlow",
-            "url": "https://twitter.com/tomcritchlow"
+            "text": "@tuyduyenhoi",
+            "url": "http://tuyduyenhoi.github.io"
           }
         ]
       }
