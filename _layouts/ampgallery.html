@@ -127,7 +127,7 @@
         publisher="{{ site.url }}"
         publisher-logo-src="/images/ampfavicon.png"
         poster-portrait-src="/images/amp-poster.png">
-      <amp-story-page id="cover">
+      <amp-story-page id="cover" auto-advance-after="5s">
         <amp-story-grid-layer template="vertical">
             <div class="content"><h1>{{page.title}}</h1></div>
             <div class="content">{{page.subtitle}}</div>
@@ -138,7 +138,7 @@
 
     {% for image in site.static_files %}
       {% if image.path contains page.folder %}
-      <amp-story-page id="page{{forloop.index}}">
+      <amp-story-page id="page-1" auto-advance-after="5s">
           <amp-story-grid-layer template="fill">
             <amp-img src="{{image.path}}" 
                 width="720" height="1280"
