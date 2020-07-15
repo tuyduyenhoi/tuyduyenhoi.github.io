@@ -1,6 +1,6 @@
 ---
 layout: ampstory
-title: Tuấn Nấm
+title: Tuan Nam
 date: 14-07-2020
 cover:
    title: Tuấn Nấm - Nấm độc để ngắm thôi!

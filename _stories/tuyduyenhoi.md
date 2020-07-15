@@ -1,6 +1,6 @@
 ---
 layout: ampstory
-title: Tuy Duyen Hoi - Hội Lầy Lội
+title: Tuy Duyen Hoi
 date: 14-07-2020
 cover:
    title: Tuy Duyen Hoi
